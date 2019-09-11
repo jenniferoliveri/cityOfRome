@@ -79,8 +79,8 @@ insulae can at least provide a good idea of what insulae might have
 looked like during the time of Crassus.
 
 {% include lightbox.html
-caption="Figure2Darcy Roman shops from Via Biberatica in Rome. Photo Ray Laurence"
-image="cityOfRome/assets/images/CaitlinImages/Figure2Darcy.png"
+caption="Blah blah Blah"
+image="Figure2Darcy.png"
 width="941"
 height="706" %}
 

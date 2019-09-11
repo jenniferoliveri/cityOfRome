@@ -80,9 +80,9 @@ looked like during the time of Crassus.
 
 {% include lightbox.html
 caption="Blah blah Blah"
-image="Figure2Darcy.png"
-width="941"
-height="706" %}
+image="cityOfRome/assets/images/CaitlinImages/Darcy4Darcy.jpg"
+width="452"
+height="339" %}
 
 The construction of these buildings allowed rich landowners to make a
 large profit off the desperate need for cheap accommodation. One of

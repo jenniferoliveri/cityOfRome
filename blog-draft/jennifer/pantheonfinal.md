@@ -9,9 +9,9 @@ By Tamlin Creighton-See
 {% include lightbox.html
 caption="Figure 1. The Pantheon in all its glory.
 Photo by Roberta Dragan"
-image="figure1.png"
-width="939"
-height="579" %}
+image="figure1.jpeg"
+width="1600"
+height="988" %}
 
 
 Immediately after hearing that hallowed name images of domes, grand open

@@ -13,6 +13,13 @@ width="1800"
 height="1181" %}
 
 
+{% include lightbox.html
+caption="Figure 1. Roman shops from Via Biberatica in Rome. Photo Ray Laurence"
+image="Ray/img508.jpg"
+width="1800"
+height="1181" %}
+
+
 Immediately after hearing that hallowed name images of domes, grand open
 spaces and columns are brought to mind (and porticos too if you know
 your terminology!). Few buildings have captured the imagination of the

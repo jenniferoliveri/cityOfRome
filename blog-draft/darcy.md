@@ -78,7 +78,11 @@ minimize fires, as well as the invention of clay bricks. These imperial
 insulae can at least provide a good idea of what insulae might have
 looked like during the time of Crassus.
 
-(FIGURE TWO GOES HERE)
+{% include lightbox.html
+caption="Figure2Darcy Roman shops from Via Biberatica in Rome. Photo Ray Laurence"
+image="cityOfRome/assets/images/CaitlinImages/Figure2Darcy.png"
+width="941"
+height="706" %}
 
 The construction of these buildings allowed rich landowners to make a
 large profit off the desperate need for cheap accommodation. One of

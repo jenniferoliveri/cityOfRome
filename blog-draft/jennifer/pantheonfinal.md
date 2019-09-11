@@ -8,8 +8,8 @@ By Tamlin Creighton-See
 
 {% include lightbox.html
 caption="Figure 1. The Pantheon in all its glory.
-Photo by Roberta Dragan"
-image="figure1.jpeg"
+Photo by [Roberta Dragan](https://upload.wikimedia.org/wikipedia/commons/0/06/Rome_Pantheon_front.jpg)"
+image="pantheon/figure1.jpg"
 width="1600"
 height="988" %}
 

@@ -78,11 +78,7 @@ minimize fires, as well as the invention of clay bricks. These imperial
 insulae can at least provide a good idea of what insulae might have
 looked like during the time of Crassus.
 
-{% include lightbox.html
-caption="Blah blah Blah"
-image="cityOfRome/assets/images/CaitlinImages/Darcy4Darcy.jpg"
-width="452"
-height="339" %}
+![Roman Insulae](Figure3Darcy.jpg)
 
 The construction of these buildings allowed rich landowners to make a
 large profit off the desperate need for cheap accommodation. One of

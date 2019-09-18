@@ -1,9 +1,9 @@
+layout: post
+title: "The Richest Man in History?"
 The Richest Man in History?
-===========================
-
+---
 Crassus and Real Estate in Late Republican Rome
-===============================================
-
+---
 By Darcy Cowan
 --------------
 

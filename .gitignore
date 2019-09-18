@@ -2,3 +2,4 @@
 .sass_cache/
 vendor/
 *.scssc
+.jekyll-metadata

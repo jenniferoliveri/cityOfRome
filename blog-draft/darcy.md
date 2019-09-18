@@ -1,11 +1,13 @@
-The Richest Man in History?
-===========================
+---
+layout: post
+title: "The Richest Man in History?"
+---
 
-Crassus and Real Estate in Late Republican Rome
-===============================================
 
-By Darcy Cowan
---------------
+# Crassus and Real Estate in Late Republican Rome
+
+## By Darcy Cowan
+
 
 *Marcus Licinius Crassus was one of the most powerful men in Rome during
 his day, but how did he get this power? Remarked upon as one of the
@@ -80,7 +82,7 @@ looked like during the time of Crassus.
 
 {% include lightbox.html
 caption="Roman Insulae"
-image="CaitlinImages/Figure2Darcy.png"
+image="assets/images/DarcyCowan/Figure2.png"
 width="941"
 height="706" %}
 

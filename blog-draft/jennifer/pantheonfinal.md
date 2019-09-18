@@ -8,16 +8,10 @@ By Tamlin Creighton-See
 
 {% include lightbox.html
 caption="Figure 1. The Pantheon in all its glory. Photo by [Roberta Dragan](https://upload.wikimedia.org/wikipedia/commons/0/06/Rome_Pantheon_front.jpg)"
-image="Ray/roberta.jpg"
-width="3455"
-height="2133" %}
+image="pantheon/figure1.jpg"
+width="1600"
+height="988" %}
 
-
-{% include lightbox.html
-caption="Figure 1. Roman shops from Via Biberatica in Rome. Photo Ray Laurence"
-image="Ray/img508.jpg"
-width="1800"
-height="1181" %}
 
 
 Immediately after hearing that hallowed name images of domes, grand open

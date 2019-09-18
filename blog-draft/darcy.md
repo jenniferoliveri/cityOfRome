@@ -80,7 +80,7 @@ looked like during the time of Crassus.
 
 {% include lightbox.html
 caption="Roman Insulae"
-image="CaitlinImages/Figure2Darcy.png"
+image="assets/images/DarcyCowan/Figure2.png"
 width="941"
 height="706" %}
 

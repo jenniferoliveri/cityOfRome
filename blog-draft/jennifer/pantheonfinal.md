@@ -7,7 +7,7 @@ By Tamlin Creighton-See
 -----------------------
 
 {% include lightbox.html
-caption="Figure 1. The Pantheon in all its glory. Photo by [Roberta Dragan](https://upload.wikimedia.org/wikipedia/commons/0/06/Rome_Pantheon_front.jpg)"
+caption="Figure 1. The Pantheon in all its glory. Photo by [Roberta Dragan](https://commons.wikimedia.org/wiki/File:Rome_Pantheon_front.jpg)"
 image="pantheon/figure1.jpg"
 width="1600"
 height="988" %}
@@ -29,7 +29,12 @@ Well, fear not! Because once you've reached the end of this blog you'll
 have the answer to all of these questions, plus the answer to the best
 Roman trivia question: How has the Pantheon managed to last so long?
 
-\[FIRGURE 2\]
+{% include lightbox.html
+caption="Figure 2. The blue dotted Pantheon located in the Campus Martius within the city of Rome. [Author unknown](https://en.wikipedia.org/wiki/File:Roma_Plan.jpg). Public Domain Access."
+image="pantheon/figure2.jpg"
+width="1508"
+height="1199" %}
+
 
 Where to begin...?
 ==================
@@ -50,7 +55,11 @@ LIII
 This early Pantheon was very different in shape to the one we are used
 to today, missing the iconic dome on top.
 
-\[FIGURE 3\]
+{% include lightbox.html
+caption="Figure 3. Marcus Agrippa looking sad, probably because his Pantheon wasn’t received as intended by Augustus. . Photo by [Marie-Lan Nguyen](https://commons.wikimedia.org/wiki/File:Agrippa_Gabii_Louvre_Ma1208.jpg) (CC by 2.5)."
+image="pantheon/figure3.jpg"
+width="800"
+height="1200" %}
 
 The second iteration of the Patheon was the result of extensive
 structural damage caused by a fire in 80 CE, Domitian restoring it
@@ -71,7 +80,11 @@ We have this date thanks to some cool brick stamping technology that has
 revealed it was *not* built during the reign of his predecessor Trajan,
 as had once been thought.[^1]
 
-\[FIGURE 4\]
+{% include lightbox.html
+caption="Figure 4. Hadrian & Antinous busts held at the British Museum. Photo By [Carole Raddato](https://www.flickr.com/photos/carolemage/8131842911) (CC BY-SA 2.0)."
+image="pantheon/figure4.jpg"
+width="640"
+height="480" %}
 
 OK, but what was the Pantheon used for?
 =======================================
@@ -107,7 +120,11 @@ Pantheon as well as other buildings, as Cassius Dio helpfully recorded
 [McEwen, 1993
 p.57](https://www.academia.edu/22365332/Hadrians_Rhetoric_I_the_Pantheon)).
 
-\[FIGURE 5\]
+{% include lightbox.html
+caption="Figure 5. Front of Pantheon showing inscription reading “Marcus Agrippa, son of Lucius, made [this building] when consul for the third time”. Photo by Dnalor_01 (CC-BY-SA 3.0)."
+image="pantheon/figure5.jpg"
+width="406"
+height="337" %}
 
 So it was a pseudo-throne room?
 ===============================
@@ -141,7 +158,11 @@ As with all ancient monuments of impressive engineering and
 architectural marvel, the burning question is: 'how did they build
 that?' and 'how is the damn thing still standing today?'
 
-\[FIGURE 6\]
+{% include lightbox.html
+caption="Figure 6. Cross section of the Pantheon. [Public Domain Dedication](https://picryl.com/media/reconstruction-of-the-pantheon-in-rome-seen-from-the-side-cut-away-to-reveal-fbad7e)."
+image="pantheon/figure6.jpg"
+width="640"
+height="469" %}
 
 To understand these questions, first we have to briefly discuss the
 design of the Pantheon.
@@ -162,7 +183,11 @@ windowless round walls, exactly 43 meters tall and 43 meters wide, form
 a perfect sphere! (see figure 7; [Waddell, 2015 p.
 133](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n157)).
 
-\[FIRGURE 7\]
+{% include lightbox.html
+caption="Figure 7. Cross Section showing the 43m diameter sphere fitting neatly into the Drum. Derivative work by [Cmglee](https://commons.wikimedia.org/wiki/File:Pantheon_section_sphere.svg) (CC BY-SA 3.0)."
+image="pantheon/figure7.jpg"
+width="1024"
+height="607" %}
 
 From here, to marvel at the Pantheon's grandest feature all you need do
 is look up! From the centre of the room you can see the famed, domed

@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "The PANTHEON!"
+title: 'The PANTHEON!'
+link-citation: true
+bibliography: pantheonbib.json
+csl: elsevier-harvard.csl
 ---
 
 By Tamlin Creighton-See
@@ -56,7 +59,7 @@ This early Pantheon was very different in shape to the one we are used
 to today, missing the iconic dome on top.
 
 {% include lightbox.html
-caption="Figure 3. Marcus Agrippa looking sad, probably because his Pantheon wasn’t received as intended by Augustus. . Photo by [Marie-Lan Nguyen](https://commons.wikimedia.org/wiki/File:Agrippa_Gabii_Louvre_Ma1208.jpg) (CC by 2.5)."
+caption="Figure 3. Marcus Agrippa looking sad, probably because his Pantheon wasn’t received as intended by Augustus. Photo by [Marie-Lan Nguyen](https://commons.wikimedia.org/wiki/File:Agrippa_Gabii_Louvre_Ma1208.jpg) (CC by 2.5)."
 image="pantheon/figure3.jpg"
 width="800"
 height="1200" %}
@@ -68,9 +71,7 @@ shortly afterwards ([Cassius Dio, LXVI
 But the Pantheon could not catch a break, it was struck by lightning in
 110 CE and once again caught fire, this time burning completely to the
 ground ([Pauli Orosii, VII
-12](http://www.attalus.org/latin/orosius7A.html#12); [Tod & Jones, 2015
-p.
-7](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n13)).
+12](http://www.attalus.org/latin/orosius7A.html#12);[@http://zotero.org/users/5912473/items/VCEIMTV6 p.7]).
 A Roman firefighter was certainly never short on work!
 
 The version of the Pantheon we see today was built during the reign of
@@ -102,9 +103,8 @@ shifted accordingly over the centuries.
 Cassius Dio tells us that Marcus Agrippa initially intended for the
 Pantheon to honour Augustus, which, in turn, would have brought Agrippa
 legitimacy and honour ([Cassius Dio, LIII
-27.3](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/53*.html);
-[McEwen, 1993
-p.56](https://www.academia.edu/22365332/Hadrians_Rhetoric_I_the_Pantheon)).
+27.3](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/53*.html);[@http://zotero.org/users/5912473/items/RAUWRRLD p.56]).
+
 
 The version that followed during the reign of Hadrian is more
 contentious. It is often assigned the role of a temple, due to its size,
@@ -117,8 +117,7 @@ It seems instead that Hadrian held a circulating court within the
 Pantheon as well as other buildings, as Cassius Dio helpfully recorded
 ([Cassius Dio LXIX
 7.1](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html);
-[McEwen, 1993
-p.57](https://www.academia.edu/22365332/Hadrians_Rhetoric_I_the_Pantheon)).
+[@http://zotero.org/users/5912473/items/RAUWRRLD p.56]).
 
 {% include lightbox.html
 caption="Figure 5. Front of Pantheon showing inscription reading “Marcus Agrippa, son of Lucius, made [this building] when consul for the third time”. Photo by Dnalor_01 (CC-BY-SA 3.0)."
@@ -131,14 +130,11 @@ So it was a pseudo-throne room?
 
 More than likely, but other uses have been suggested. Christian
 historian Iulius Africanus wrote that a library was built in, or close
-to, the Pantheon in the third century CE ([Thunø, 2015 p.
-231](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n269)).
-
+to, the Pantheon in the third century CE [@http://zotero.org/users/5912473/items/9VP4EKBZ p.231].
 Although it certainly wasn't limited to a scholarly function. The
 Pantheon's intertwining with imperial dynasties continued into the 4^th^
 century with laws said to have been announced there under Constantius in
-370 CE ([Thunø, 2015 p.
-231](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n269)).
+370 CE [@http://zotero.org/users/5912473/items/9VP4EKBZ p.231].
 
 Following its conversion to a Christian church under the Emperor Phocas
 around 610 CE source material on the Pantheon is quiet. Perhaps the
@@ -148,8 +144,7 @@ conversion. Popes made regular visits to the Santa Maria Rotonda, as the
 Pantheon came to be known, holding services and feasts there. This
 became a means to extend the power and legitimacy of the Church to the
 masses throughout the world, with the Pantheon becoming one of many
-'stational churches' ([Thunø, 2015 pp.
-231-3](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n269)).
+'stational churches' [@http://zotero.org/users/5912473/items/9VP4EKBZ pp.231-3].
 
 But how did they build it?
 ==========================
@@ -170,18 +165,16 @@ design of the Pantheon.
 Visitors to the Pantheon first enter through the portico, a *very* grand
 porch lined with three rows of columns. But these are not just any
 columns, they're *forty foot* Corinthian granite columns shipped all the
-way from Egypt! ([Ressler,
-2015](https://macquarie.kanopy.com/video/most-celebrated-edifice-pantheon)\]).
+way from Egypt! [@http://zotero.org/users/5912473/items/VTEJ3FYD].
 At the time of construction, a flight of stairs would have led to the
 portico, but later construction raised the level of the ground and the
-stairs were no longer necessary ([Ressler,
-2015](https://macquarie.kanopy.com/video/most-celebrated-edifice-pantheon)).
+stairs were no longer necessary [@http://zotero.org/users/5912473/items/VTEJ3FYD].
 
 The vestibule links the portico to the main circular drum that is the
 Rotunda. Once inside, the Rotunda makes for an incredible sight, its
 windowless round walls, exactly 43 meters tall and 43 meters wide, form
-a perfect sphere! (see figure 7; [Waddell, 2015 p.
-133](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n157)).
+a perfect sphere! (see figure 7;[@http://zotero.org/users/5912473/items/4KSKZX2S p.133]).
+
 
 {% include lightbox.html
 caption="Figure 7. Cross Section showing the 43m diameter sphere fitting neatly into the Drum. Derivative work by [Cmglee](https://commons.wikimedia.org/wiki/File:Pantheon_section_sphere.svg) (CC BY-SA 3.0)."
@@ -203,11 +196,9 @@ Only a few good men it seems.
 The answer may be surprising, but according to careful analysis and
 quick maths, it is estimated that the Pantheon would have needed a
 minimum of 240 men on site each year of its nine year construction
-period ([DeLaine, 2015 p.
-190](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n188)).
+period [@http://zotero.org/users/5912473/items/IIR7U883 p.190].
 A poultry figure when its compared to the 4000 men required to build
-just the *central block* of the Baths of Caracalla ([DeLaine, 2015 p.
-190](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n188)).
+just the *central block* of the Baths of Caracalla [@http://zotero.org/users/5912473/items/IIR7U883 p.190].
 
 And to the real question ...
 ============================
@@ -221,24 +212,21 @@ thrust.
 The Roman concrete used for the bricks was made in an incredibly unique
 process. Mortar was mixed with lime and pozzolana (a volcanic powder
 found in the town of Pozzuoli), an exceedingly useful material because
-it could be cured in water without air ([Martines, 2015 pp.
-126-7](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n120)).
+it could be cured in water without air [@http://zotero.org/users/5912473/items/T7YW79BD pp.126-7].
 
 Into this mix different aggregates were thrown, all with different
 weights and structures. the base of the dome had bricks with the
 heaviest aggregates -- brick fragments. What followed were layers of
 concrete with increasingly lighter aggregate materials. First were brick
 fragments, then layers of tufa, followed by lighter tufa and lastly,
-pumice mixed together with volcanic slag ([Martines, 2015 pp.
-126-7](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n120)).
+pumice mixed together with volcanic slag [@http://zotero.org/users/5912473/items/T7YW79BD pp.126-7].
 This process lessened the otherwise significant amount of lateral thrust
 the dome would have exerted onto the drum.
 
 The honeycomb patterns (or coffers) and Oculus (seen in figure 7), while
 pleasing to the eye, served more than an aesthetic purpose. They again
 helped make the dome lighter to further reduce lateral thrust
-([Martines, 2015 p.
-127](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n120)).
+[@http://zotero.org/users/5912473/items/T7YW79BD p.127].
 
 So are you ready for a Roman themed trivia night?
 =================================================
@@ -248,9 +236,7 @@ important to remember that today's Pantheon is very different in content
 and aesthetics to what was originally built. The sources tell us that
 pieces, artefacts and statues in the Pantheon have been changed,
 removed, lost, or damaged over the centuries. This, in part, explains
-how the Pantheon has managed to survive as long as it has ([Moore, 1899
-pp.
-40-3](https://www.jstor.org/stable/496616?seq=1#metadata_info_tab_contents)).
+how the Pantheon has managed to survive as long as it has [@http://zotero.org/users/5912473/items/AGKZZZQK pp.40-3]
 
 Successive generations have marvelled at its architectural uniqueness
 and symbolic importance, and kept it alive. As such, it shouldn't be a

@@ -1,6 +1,6 @@
 [
 	{
-		"id": "http://zotero.org/groups/2362174/items/K6FU7PTN",
+		"id": "http://zotero.org/users/5912473/items/VCEIMTV6",
 		"type": "chapter",
 		"title": "Introduction",
 		"container-title": "The Pantheon From Antiquity To The Present",
@@ -49,62 +49,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2362174/items/F6NEC2ZU",
-		"type": "book",
-		"title": "Roman History",
-		"publisher": "Harvard University Press",
-		"URL": "http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/home.html",
-		"author": [
-			{
-				"family": "Dio",
-				"given": "Cassius"
-			}
-		],
-		"translator": [
-			{
-				"family": "Cary",
-				"given": "Earnest"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					3
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/2362174/items/RS24W75U",
-		"type": "book",
-		"title": "The Historia Augusta",
-		"URL": "http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/home.html",
-		"author": [
-			{
-				"family": "Spartianus",
-				"given": "Aelius"
-			}
-		],
-		"translator": [
-			{
-				"family": "Magie",
-				"given": "David"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					3
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/2362174/items/5U27Z2D7",
+		"id": "http://zotero.org/users/5912473/items/RAUWRRLD",
 		"type": "article-journal",
 		"title": "Hadrian's Rhetoric I: the Pantheon",
 		"container-title": "Anthropology and Aesthetics",
@@ -138,7 +83,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2362174/items/UQUWACI8",
+		"id": "http://zotero.org/users/5912473/items/9VP4EKBZ",
 		"type": "chapter",
 		"title": "The Pantheon in the Middle Ages",
 		"container-title": "The Pantheon From Antiquity To The Present",
@@ -147,7 +92,7 @@
 		"source": "Internet Archive",
 		"event-place": "Cambridge, MA",
 		"abstract": "ROMAN ARCHITECTURE",
-		"URL": "http://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015",
+		"URL": "https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n269",
 		"language": "English",
 		"author": [
 			{
@@ -183,7 +128,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2362174/items/B7I2BT4R",
+		"id": "http://zotero.org/users/5912473/items/VTEJ3FYD",
 		"type": "motion_picture",
 		"title": "The Most Celebrated Edifice—The Pantheon",
 		"URL": "https://macquarie.kanopy.com/video/most-celebrated-edifice-pantheon",
@@ -198,7 +143,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2362174/items/WWRH7WT8",
+		"id": "http://zotero.org/users/5912473/items/IIR7U883",
 		"type": "chapter",
 		"title": "The Pantheon Builders: Estimating Manpower for Construction",
 		"container-title": "The Pantheon From Antiquity To The Present Tod A. Marder MARK WILSON JONES 2015",
@@ -207,7 +152,7 @@
 		"source": "Internet Archive",
 		"event-place": "Cambridge, MA",
 		"abstract": "ROMAN ARCHITECTURE",
-		"URL": "http://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015",
+		"URL": "https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n188",
 		"language": "English",
 		"author": [
 			{
@@ -243,7 +188,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2362174/items/MT6HGCU4",
+		"id": "http://zotero.org/users/5912473/items/AGKZZZQK",
 		"type": "article-journal",
 		"title": "The Gilt-Bronze Tiles of the Pantheon",
 		"container-title": "American Journal of Archaeology",
@@ -278,7 +223,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2362174/items/CUH67AD6",
+		"id": "http://zotero.org/users/5912473/items/T7YW79BD",
 		"type": "chapter",
 		"title": "The Conception and Construction of Drum and Dome",
 		"container-title": "The Pantheon From Antiquity To The Present",
@@ -287,12 +232,22 @@
 		"source": "Internet Archive",
 		"event-place": "Cambridge, MA",
 		"abstract": "ROMAN ARCHITECTURE",
-		"URL": "http://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015",
+		"URL": "https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n120",
 		"language": "English",
 		"author": [
 			{
 				"family": "Martines",
 				"given": "Giangiacomo"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Marder",
+				"given": "Tod"
+			},
+			{
+				"family": "Wilson Jones",
+				"given": "Mark"
 			}
 		],
 		"issued": {
@@ -313,7 +268,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2362174/items/CCDI5JSL",
+		"id": "http://zotero.org/users/5912473/items/4KSKZX2S",
 		"type": "chapter",
 		"title": "Sources and Parallels for the Design and Construction of the Pantheon",
 		"container-title": "The Pantheon From Antiquity To The Present",
@@ -322,7 +277,7 @@
 		"source": "Internet Archive",
 		"event-place": "Cambridge, MA",
 		"abstract": "ROMAN ARCHITECTURE",
-		"URL": "http://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015",
+		"URL": "https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n157",
 		"language": "English",
 		"author": [
 			{

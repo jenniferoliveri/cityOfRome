@@ -278,34 +278,7 @@ Zangemeister (Corpus Scriptorum Ecclesiasticorum Latinorum).
 Modern Sources
 --------------
 
-DeLaine, J. (2015) 'The Pantheon Builders: Estimating Manpower for
-Construction', in T. A. Marder & M. Wilson Jones (eds) *The Pantheon
-From Antiquity to the Present* (Cambridge, MA: Harvard U.P.).
 
-Marder, T. & Wilson Jones, M. (2015) 'Introduction', in T. A. Marder &
-M. Wilson Jones (eds) *The Pantheon From Antiquity to the Present*
-(Cambridge, MA: Harvard U.P.).
-
-Martines, G. (2015) 'The Conception and Construction of Drum and Dome',
-in T. A. Marder & M. Wilson Jones (eds) *The Pantheon From Antiquity to
-the Present* (Cambridge, MA: Harvard U.P.).
-
-McEwen, I. (1993) 'Hadrian's Rhetoric I: the Pantheon' *Anthropology and
-Aesthetics* 24, 54-66.
-
-Moore, F. G. (1899) 'The Gilt-Bronze Tiles of the Pantheon' *American
-Journal of Archaeology* 3, 40-43.
-
-Ressler, S. (2015) The Most Celebrated Edifice-The Pantheon, Kanopy.
-
-Thunø, E. (2015) 'The Pantheon in the Middle Ages', in T. A. Marder & M.
-Wilson Jones (eds) *The Pantheon From Antiquity to the Present*
-(Cambridge, MA: Harvard U.P.).
-
-Waddell, G. (2015) *Sources and Parallels for the Design and
-Construction of the Pantheon* in T. A. Marder & M. Wilson Jones (eds)
-*The Pantheon From Antiquity to the Present* (Cambridge, MA: Harvard
-U.P.).
 
 [^1]: The brick stamps are CIL XV.276, 362, 649a, 811b, c, 1106b, 1406,
     and can be found at:

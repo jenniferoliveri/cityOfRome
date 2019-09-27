@@ -114,7 +114,7 @@ that will turn the dilapidated insulae into profitable housing ([Cicero
 14.9.1](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=PerseusLatinTexts&getid=1&query=Cic.%20Att.%2014.9)).
 
 {% include lightbox.html
-caption="Figure4.png Collapsed insula. Photo by ([Mentnafunangann](https://commons.wikimedia.org/wiki/File:Edificio_Insula_Orientalis_II_5.jpg)"
+caption="Figure 2. Collapsed insula. Photo by ([Mentnafunangann](https://commons.wikimedia.org/wiki/File:Edificio_Insula_Orientalis_II_5.jpg)"
 image="DarcyCowan/Figure4.png"
 width="941"
 height="706" %}
@@ -150,8 +150,8 @@ class, and - more commonly - low quality living spaces that rarely met
 legal standards.
 
 {% include lightbox.html
-caption="Figure4.png Collapsed insula. Photo by ([Mentnafunangann](https://commons.wikimedia.org/wiki/File:Edificio_Insula_Orientalis_II_5.jpg)"
-image="DarcyCowan/Figure4.png"
+caption="Figure 3. Dilapidated insula. Photo by ([Mentnafunangann](https://commons.wikimedia.org/wiki/File:Edificio_Insula_Orientalis_II_6a.jpg)"
+image="DarcyCowan/Figure2.png"
 width="941"
 height="706" %}
 
@@ -232,7 +232,11 @@ Other ancient sources, such as Suetonius, Appian, and Cassius Dio,
 acknowledge Crassus' vast wealth and his acquisition of property through
 Sulla, but don't confirm the other detailed claims made by Plutarch.
 
-(crassus bust here)
+{% include lightbox.html
+caption="Figure 4. Marble bust of Marcus Licinius Crassus located in the Louvre, Paris. Found in Italy, dated to around the middle of the 1st century BC. Photo under([Creative Commons](https://commons.wikimedia.org/wiki/File:Marcus_Licinius_Crassus_Louvre.jpg)"
+image="DarcyCowan/Figure6.png"
+width="461"
+height="617" %}
 
 As an active politician, Crassus would have likely used primary tenants
 to manage his real estate assets. However, his use of slaves in the

@@ -1,8 +1,10 @@
-The Richest Man in History?
-===========================
-
-Crassus and Real Estate in Late Republican Rome
-===============================================
+---
+layout: post
+title: 'The Richest Man in History'
+link-citation: true
+bibliography: pantheonbib.json
+csl: elsevier-harvard.csl
+---
 
 By Darcy Cowan
 --------------
@@ -50,7 +52,7 @@ became one of the most powerful politicians of his day.
 Building the Road to Power
 --------------------------
 
-### Making Money with Insulae 
+### Making Money with Insulae
 
 To understand real estate in Rome, it's essential to understand the
 Insula, a type of residential building which was prominent in late
@@ -76,9 +78,15 @@ different. Two marked changes from the Republic to Imperial period
 include Nero's building reforms, which implemented regulations to help
 minimize fires, as well as the invention of clay bricks. These imperial
 insulae can at least provide a good idea of what insulae might have
-looked like during the time of Crassus.
+looked like during the time of Crassus (Figure 1).
 
-(Intact insulae goes here)
+{% include lightbox.html
+caption="Figure 1. Example of an intact insula. Photo by ([Denis Jarvis](https://commons.wikimedia.org/wiki/File:OstianInsulae.JPG)"
+image="DarcyCowan/Figure3.png"
+width="891"
+height="593" %}
+
+
 
 The construction of these buildings allowed rich landowners to make a
 large profit off the desperate need for cheap accommodation. One of
@@ -105,7 +113,11 @@ also mentions a partnership between himself, an architect, and a banker,
 that will turn the dilapidated insulae into profitable housing ([Cicero
 14.9.1](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=PerseusLatinTexts&getid=1&query=Cic.%20Att.%2014.9)).
 
-(collapsed insula here)
+{% include lightbox.html
+caption="Figure4.png Collapsed insula. Photo by ([Mentnafunangann](https://commons.wikimedia.org/wiki/File:Edificio_Insula_Orientalis_II_5.jpg)"
+image="DarcyCowan/Figure4.png"
+width="941"
+height="706" %}
 
 In another letter, Cicero speaks about his properties along the
 Argiletum and Aventine ([Cicero
@@ -117,7 +129,7 @@ of multiple private tutors. From his confident attitude, it is clear
 that these properties do not require Cicero's direct attention, as the
 low-quality ones did, indicating they were likely of better quality.
 
-### Insulae: You Get what you Pay For 
+### Insulae: You Get what you Pay For
 
 These contrasting examples provide a significant insight into insulae in
 Republican Rome. He written evidence shows they varied in quality and
@@ -137,7 +149,11 @@ for accommodation in Rome, including high quality housing for the upper
 class, and - more commonly - low quality living spaces that rarely met
 legal standards.
 
-(dilapidated insule here)
+{% include lightbox.html
+caption="Figure4.png Collapsed insula. Photo by ([Mentnafunangann](https://commons.wikimedia.org/wiki/File:Edificio_Insula_Orientalis_II_5.jpg)"
+image="DarcyCowan/Figure4.png"
+width="941"
+height="706" %}
 
 How to Make a Profit
 --------------------
@@ -197,7 +213,7 @@ landowner, but there are several benefits that make it viable:
 This is the method that Cicero uses for his high-quality properties, and
 presumably for all of his other properties too. But what about Crassus?
 
-Crassus: Building a Fortune 
+Crassus: Building a Fortune
 ----------------------------
 
 Crassus took advantage of the socio-political state Rome was in during

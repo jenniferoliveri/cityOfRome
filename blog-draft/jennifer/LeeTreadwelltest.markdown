@@ -167,50 +167,85 @@ and knowledge of the traditions long since faded, that help us to not
 only understand the people of the past but ourselves as well. After all
 history isn't just words on a page, it is the story of us.
 
-Figure 1: Aureus of the Emperor Nero. Featuring a bearded Nero wearing a
-laurel on the obverse(face) side and depicting the Ianus Geminus on the
-reverse side. The embossed inscription on the reverse translates to
-Peace of the Roman People being established on land and sea, the gates
-of the temple of Janus are closed. Material: Gold. Produced circa 64-65
-CE. Open Database License.
-<http://numismatics.org/ocre/id/ric.1(2).ner.50>
+{% include lightbox.html
+caption="Figure 1. Aureus of the Emperor Nero. Featuring a bearded Nero wearing a laurel on the obverse(face) side and depicting the Ianus Geminus on the reverse side. The embossed inscription on the reverse translates to Peace of the Roman People being established on land and sea, the gates of the temple of Janus are closed. Material: Gold. Produced circa 64-65 CE. Open Database License."
+imageCredit="Author Unknown"
+imageCreditLink="http://numismatics.org/ocre/id/ric.1(2).ner.50"
+image="TreadwellImages/figure1treadwell.jpg"
+width="750"
+height="349" %}
 
-Figure 2: Obverse of a Sestertius of the Emperor Nero, depicting his
-bust and official title. Unlike the Aureus, Nero is not featured with a
-beard. Material: Bronze. Produced circa 62-68 CE. Open Database License.
-<http://numismatics.org/ocre/id/ric.1(2).ner.264>
 
-Figure 3: Reverse of figure 2. Depicting the Ianus Geminus from an
-angle. Showing latticed window upon the side wall and the gate decorated
-by garlands. The inscription is the same as that as upon the Aureus in
-figure 1. The presence of S C upon the coin indicate a senatorial
-decree, Material: Bronze. Produced circa 62-68 CE. Open Database
-License. <http://numismatics.org/ocre/id/ric.1(2).ner.264>
+{% include lightbox.html
+caption="Figure 2. Obverse of a Sestertius of the Emperor Nero, depicting his bust and official title. Unlike the Aureus, Nero is not featured with a beard. Material: Bronze. Produced circa 62-68 CE. Open Database License."
+imageCredit="Author Unknown"
+imageCreditLink="http://numismatics.org/ocre/id/ric.1(2).ner.264"
+image="TreadwellImages/figure2treadwell.jpg"
+width="175"
+height="175" %}
 
-Figure 4: Obverse of another example of the Aureus. This example again
-features Nero with a beard. Material: Gold. Produced circa 64-65 CE.
-Open Database License. <http://numismatics.org/ocre/id/ric.1(2).ner.58>
 
-Figure 5: Reverse side of the Aureus from image 4. The void on this
-example indicates that unlike image 1, the faces were aligned properly
-before striking. Some of the details appear to be more worn away
-however. Material: Gold. Produced circa 64-65 CE. Open Database License.
-<http://numismatics.org/ocre/id/ric.1(2).ner.58>
+{% include lightbox.html
+caption="Figure 2. Obverse of a Sestertius of the Emperor Nero, depicting his bust and official title. Unlike the Aureus, Nero is not featured with a beard. Material: Bronze. Produced circa 62-68 CE. Open Database License."
+imageCredit="Author Unknown"
+imageCreditLink="http://numismatics.org/ocre/id/ric.1(2).ner.264"
+image="TreadwellImages/figure2treadwell.jpg"
+width="175"
+height="175" %}
 
-Figure 6: Obverse of a Sestertius of Nero. Unlike the previous images in
-this example Nero appears to be facing in the opposite direction. Nero
-does appear beardless but wearing a laurel as on the other sestertius.
-Material: Bronze. Produced circa 62-68 CE. Open Database License.
-<http://numismatics.org/ocre/id/ric.1(2).ner.265>
 
-Figure 7: Reverse side of sestertius revealing more detail of Ianus
-Geminus again depicted with the gate decorated by a garland. Material:
-Bronze. Produced circa 62-68 CE. Open Database
-License.<http://numismatics.org/ocre/id/ric.1(2).ner.265>
+{% include lightbox.html
+caption="Figure 3. Reverse of figure 2. Depicting the Ianus Geminus from an angle. Showing latticed window upon the side wall and the gate decorated by garlands. The inscription is the same as that as upon the Aureus in figure 1. The presence of S C upon the coin indicate a senatorial decree, Material: Bronze. Produced circa 62-68 CE. Open Database License. "
+imageCredit="Author Unknown"
+imageCreditLink="http://numismatics.org/ocre/id/ric.1(2).ner.264"
+image="TreadwellImages/figure3treadwell.jpg"
+width="350"
+height="350" %}
 
-Figure 8: The Arch of Janus (Ianus Quadrifons), the eventual/potential
-replacement to the temple of Ianus Geminus. Located at the north eastern
-edge of the Forum Boarium. <https://www.ancient.eu/Janus/>
+
+{% include lightbox.html
+caption="Figure 4. Obverse of another example of the Aureus. This example again features Nero with a beard. Material: Gold. Produced circa 64-65 CE. Open Database License. "
+imageCredit="Author Unknown"
+imageCreditLink="http://numismatics.org/ocre/id/ric.1(2).ner.58"
+image="TreadwellImages/figure4treadwell.jpg"
+width="175"
+height="169" %}
+
+
+{% include lightbox.html
+caption="Figure 5. Reverse side of the Aureus from image 4. The void on this example indicates that unlike image 1, the faces were aligned properly before striking. Some of the details appear to be more worn away however. Material: Gold. Produced circa 64-65 CE. Open Database License."
+imageCredit="Author Unknown"
+imageCreditLink="http://numismatics.org/ocre/id/ric.1(2).ner.58"
+image="TreadwellImages/figure5treadwell.png"
+width="375"
+height="362" %}
+
+
+{% include lightbox.html
+caption="Figure 6. Obverse of a Sestertius of Nero. Unlike the previous images in this example Nero appears to be facing in the opposite direction. Nero does appear beardless but wearing a laurel as on the other sestertius. Material: Bronze. Produced circa 62-68 CE. Open Database License."
+imageCredit="Author Unknown"
+imageCreditLink="http://numismatics.org/ocre/id/ric.1(2).ner.265"
+image="TreadwellImages/figure6treadwell.jpg"
+width="175"
+height="174" %}
+
+
+{% include lightbox.html
+caption="Figure 7. Reverse side of sestertius revealing more detail of Ianus Geminus again depicted with the gate decorated by a garland. Material: Bronze. Produced circa 62-68 CE. Open Database License."
+imageCredit="Author Unknown"
+imageCreditLink="http://numismatics.org/ocre/id/ric.1(2).ner.265"
+image="TreadwellImages/figure7treadwell.jpg"
+width="175"
+height="174" %}
+
+
+{% include lightbox.html
+caption="Figure 8. The Arch of Janus (Ianus Quadrifons), the eventual/potential replacement to the temple of Ianus Geminus. Located at the north eastern edge of the Forum Boarium."
+imageCredit="Author Unknown"
+imageCreditLink="https://www.ancient.eu/Janus/"
+image="TreadwellImages/figure8treadwell.jpg"
+width="500"
+height="333" %}
 
 Guide to Further Reading:
 

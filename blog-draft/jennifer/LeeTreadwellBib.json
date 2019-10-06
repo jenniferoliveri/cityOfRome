@@ -1,0 +1,174 @@
+[
+	{
+		"id": "http://zotero.org/groups/2362174/items/3UACZGS8",
+		"type": "article-journal",
+		"title": "Multiple Interpretation of the Opening and Closing of the Temple of Janus: A Misunderstanding of Ovid \"Fasti\" 1.281",
+		"container-title": "Mnemosyne",
+		"page": "302-309",
+		"volume": "53",
+		"issue": "3",
+		"source": "JSTOR",
+		"archive": "JSTOR",
+		"URL": "http://www.jstor.org/stable/4433099",
+		"ISSN": "0026-7074",
+		"title-short": "Multiple Interpretation of the Opening and Closing of the Temple of Janus",
+		"author": [
+			{
+				"family": "Green",
+				"given": "S. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					9,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2362174/items/82UNRTII",
+		"type": "article-journal",
+		"title": "The Shrine of Janus Geminus in Rome",
+		"container-title": "American Journal of Archaeology",
+		"page": "437-440",
+		"volume": "47",
+		"issue": "4",
+		"source": "JSTOR",
+		"URL": "https://www.jstor.org/stable/499831",
+		"DOI": "10.2307/499831",
+		"ISSN": "0002-9114",
+		"author": [
+			{
+				"family": "Müller",
+				"given": "Valentine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1943"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					9,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2362174/items/XW9RC82W",
+		"type": "webpage",
+		"title": "LacusCurtius • Janus Geminus (Platner & Ashby, 1929)",
+		"URL": "http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Janus_Geminus.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					9,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2362174/items/GIFSYLLI",
+		"type": "webpage",
+		"title": "Temple of Janus",
+		"URL": "http://www.romeandart.eu/en/art-temple-janus.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					9,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2362174/items/2E6WBIXI",
+		"type": "article-journal",
+		"title": "Tacitus, Suetonius and the Temple of Janus",
+		"container-title": "Hermes",
+		"page": "233-242",
+		"volume": "108",
+		"issue": "2",
+		"source": "JSTOR",
+		"archive": "JSTOR",
+		"URL": "https://www.jstor.org/stable/4476162",
+		"ISSN": "0018-0777",
+		"author": [
+			{
+				"family": "Townend",
+				"given": "G. B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					9,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2362174/items/ETCARA8U",
+		"type": "article-journal",
+		"title": "Problems about Janus",
+		"container-title": "The American Journal of Philology",
+		"page": "188-212",
+		"volume": "100",
+		"issue": "1",
+		"source": "JSTOR",
+		"archive": "JSTOR",
+		"URL": "https://www.jstor.org/stable/294238",
+		"DOI": "10.2307/294238",
+		"ISSN": "0002-9475",
+		"author": [
+			{
+				"family": "Syme",
+				"given": "Ronald"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					6
+				]
+			]
+		}
+	}
+]

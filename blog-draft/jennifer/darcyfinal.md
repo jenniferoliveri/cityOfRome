@@ -284,8 +284,7 @@ Plutarch's biography of Crassus:
 Full list of Cicero's letters to Atticus:
 [[http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=PerseusLatinTexts&getid=1&query=Cic.%20Att.%2012.32]{.underline}](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=PerseusLatinTexts&getid=1&query=Cic.%20Att.%2012.32)
 
-**\
-**
+
 
 **Bibliography**
 

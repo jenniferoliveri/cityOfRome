@@ -258,14 +258,14 @@ Further Reading
 ===============
 
 [A travellers blog with loads of pretty pictures of the Pantheon
-Interior, "A Singaporean's Maiden Trip to
-Europe"](https://kurodatenshi.travellerspoint.com/23/).
+Interior, 'A Singaporean's Maiden Trip to
+Europe'](https://kurodatenshi.travellerspoint.com/23/).
 
 [A schmick looking 3D model of the interior of the Pantheon, put
 together by Mathew
 Brennan.](https://sketchfab.com/3d-models/pantheon-interior-a5223378f80f4b87acb4491f1f4f920a)
 
-[Roma Experience "The Imperfect Perfection of the Pantheon in Rome".\
+[Roma Experience 'The Imperfect Perfection of the Pantheon in Rome'.\
 ](https://www.romaexperience.com/rome-blog/the-imperfect-perfection-of-the-pantheon-in-rome)
 
 Bibliography
@@ -286,27 +286,27 @@ Paulus Orosius, *Historiarum Adversum Paganos* 1882 ed. C. Zangemeister
 Modern Sources
 --------------
 
-DeLaine, J. 2015. "The Pantheon Builders: Estimating Manpower for
-Construction" in T. A. Marder & M. Wilson Jones (eds) *The Pantheon From
+DeLaine, J. 2015. 'The Pantheon Builders: Estimating Manpower for
+Construction' in T. A. Marder & M. Wilson Jones (eds) *The Pantheon From
 Antiquity to the Present*, Harvard University Press.
 
-Marder, T. & Wilson Jones, M. 2015. "Introduction" in T. A. Marder & M.
+Marder, T. & Wilson Jones, M. 2015. 'Introduction' in T. A. Marder & M.
 Wilson Jones (eds) *The Pantheon From Antiquity to the Present*, Harvard
 University Press.
 
-Martines, G. 2015. "The Conception and Construction of Drum and Dome" in
+Martines, G. 2015. 'The Conception and Construction of Drum and Dome' in
 T. A. Marder & M. Wilson Jones (eds) *The Pantheon From Antiquity to the
 Present*, Harvard University Press.
 
-McEwen, I. 1993. "Hadrian's Rhetoric I: the Pantheon' *Anthropology and
+McEwen, I. 1993. 'Hadrian's Rhetoric I: the Pantheon' *Anthropology and
 Aesthetics* 24: 54-66.
 
-Moore, F. G. 1899. "The Gilt-Bronze Tiles of the Pantheon" *American
+Moore, F. G. 1899. 'The Gilt-Bronze Tiles of the Pantheon' *American
 Journal of Archaeology* 3: 40-43.
 
-Ressler, S. 2015 "The Most Celebrated Edifice-The Pantheon" Kanopy.
+Ressler, S. 2015 'The Most Celebrated Edifice-The Pantheon' Kanopy.
 
-Thunø, E. 2015. "The Pantheon in the Middle Ages" in T. A. Marder & M.
+Thunø, E. 2015. 'The Pantheon in the Middle Ages' in T. A. Marder & M.
 Wilson Jones (eds) *The Pantheon From Antiquity to the Present*, Harvard
 University Press.
 

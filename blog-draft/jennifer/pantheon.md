@@ -22,7 +22,9 @@ have the answer to all of these questions, plus the answer to the best
 Roman trivia question: How has the Pantheon managed to last so long?
 
 {% include lightbox.html
-caption="Figure 1. The blue dotted Pantheon located in the Campus Martius within the city of Rome. [Author unknown](https://en.wikipedia.org/wiki/File:Roma_Plan.jpg). Public Domain Access."
+caption="Figure 1. The blue dotted Pantheon located in the Campus Martius within the city of Rome."
+imageCredit="Author Unknown"
+imageCreditLink="https://en.wikipedia.org/wiki/File:Roma_Plan.jpg"
 image="pantheon/figure1.jpg"
 width="418"
 height="335" %}
@@ -46,7 +48,9 @@ This early Pantheon was very different in shape to the one we are used
 to today, missing the iconic dome on top.
 
 {% include lightbox.html
-caption="Figure 2. Marcus Agrippa looking sad, probably because his Pantheon wasn’t received as intended by Augustus. Photo by [Marie-Lan Nguyen](https://commons.wikimedia.org/wiki/File:Agrippa_Gabii_Louvre_Ma1208.jpg) (CC by 2.5)."
+caption="Figure 2. Marcus Agrippa looking sad, probably because his Pantheon wasn’t received as intended by Augustus (CC by 2.5)."
+imageCredit="Photo by Marie-Lan Nguyen"
+imageCreditLink="https://commons.wikimedia.org/wiki/File:Agrippa_Gabii_Louvre_Ma1208.jpg"
 image="pantheon/figure2.jpg"
 width="512"
 height="768" %}
@@ -70,7 +74,9 @@ revealed it was *not* built during the reign of his predecessor Trajan,
 as had once been thought.[^1]
 
 {% include lightbox.html
-caption="Figure 3. Hadrian & Antinous busts, held at the British Museum. Photo By [Carole Raddato](https://www.flickr.com/photos/carolemage/8131842911) (CC BY-SA 2.0)."
+caption="Figure 3. Hadrian & Antinous busts, held at the British Museum (CC BY-SA 2.0)."
+imageCredit="Photo By Carole Raddato"
+imageCreditLink="https://www.flickr.com/photos/carolemage/8131842911"
 image="pantheon/figure3.jpg"
 width="640"
 height="480" %}
@@ -111,7 +117,8 @@ McEwen
 57).
 
 {% include lightbox.html
-caption="Figure 4. Front of the Pantheon showing inscription reading 'Marcus Agrippa, son of Lucius, made [this building] when consul for the third time'. Photo by Dnalor_01 (CC-BY-SA 3.0)."
+caption="Figure 4. Front of the Pantheon showing inscription reading 'Marcus Agrippa, son of Lucius, made [this building] when consul for the third time'(CC BY SA 3.0)."
+imageCredit="Photo by Dnalor_01"
 image="pantheon/figure4.jpg"
 width="406"
 height="337" %}
@@ -152,7 +159,9 @@ architectural marvel, the burning question is: 'how did they build
 that?' and 'how is the damn thing still standing today?'
 
 {% include lightbox.html
-caption="Figure 5. Cross section of the Pantheon. [Public Domain Dedication](https://picryl.com/media/reconstruction-of-the-pantheon-in-rome-seen-from-the-side-cut-away-to-reveal-fbad7e)."
+caption="Figure 5. Cross section of the Pantheon."
+imageCredit="Public Domain Dedication"
+imageCreditLink="https://picryl.com/media/reconstruction-of-the-pantheon-in-rome-seen-from-the-side-cut-away-to-reveal-fbad7e"
 image="pantheon/figure5.jpg"
 width="640"
 height="469" %}
@@ -178,7 +187,9 @@ a perfect sphere! (see figure 7; Waddell
 133).
 
 {% include lightbox.html
-caption="Figure 6. Cross Section showing the 43m diameter sphere fitting neatly into the Drum. Derivative work by [Cmglee](https://commons.wikimedia.org/wiki/File:Pantheon_section_sphere.svg) (CC BY-SA 3.0)."
+caption="Figure 6. Cross Section showing the 43m diameter sphere fitting neatly into the Drum (CC BY-SA 3.0)."
+imageCredit="Derivative work by Cmglee"
+imageCreditLink="https://commons.wikimedia.org/wiki/File:Pantheon_section_sphere.svg"
 image="pantheon/figure6.jpg"
 width="1024"
 height="607" %}

@@ -58,8 +58,7 @@ To understand real estate in Rome, it's essential to understand the
 Insula, a type of residential building which was prominent in late
 Republican and Imperial Rome. Insulae were introduced in Rome after the
 [Social Wars](https://www.britannica.com/event/Social-War-Roman-history)
-as a cheap solution to the influx of migrants entering the city (Craver
-2010: 136) (brian I have this I just need to attach the PDF somehow)
+as a cheap solution to the influx of migrants entering the city ([Craver 2010: 136](files/DarcyPDF/Craver.pdf))
 These buildings were typically made out of stone and were designed to
 accommodate multiple inhabitants. They were similar to modern day
 apartment buildings, though they were typically only one or two stories
@@ -85,7 +84,6 @@ caption="Figure 1. Example of an intact insula. Photo by ([Denis Jarvis](https:/
 image="DarcyCowan/Figure3.png"
 width="891"
 height="593" %}
-
 
 
 The construction of these buildings allowed rich landowners to make a
@@ -142,8 +140,7 @@ Roman legal system favoured the upper class (du Plessis 2016: 48.2)
 (have contacted -- has not written back). This combination made urban
 land ownership a hugely profitable affair. In fact, the poor were so
 badly done by through this system that most high-profile politicians
-actively avoided the practice, giving Crassus fewer competitors (Craver
-2010: 136) (needs pdf link). Even the crumbling properties inherited by
+actively avoided the practice, giving Crassus fewer competitors ([Craver 2010: 136](files/DarcyPDF/Craver.pdf)). Even the crumbling properties inherited by
 Cicero were turned profitable. Insulae catered for the ever-growing need
 for accommodation in Rome, including high quality housing for the upper
 class, and - more commonly - low quality living spaces that rarely met
@@ -196,7 +193,7 @@ manage a few high-quality properties.
 Primary Tenants are people who purchase the right to become the landlord
 of a property. They pay the landowner a fixed, yearly amount and then
 manage the property independently, trying to make more money from the
-tenants than they are paying (du Plessis 2006: 48.2) (have contacted).
+tenants than they are paying ([du Plessis 2006: 48.2][files/DarcyPDF/DuPlessis.pdf]
 In theory, this method lowers the maximum potential profit for the
 landowner, but there are several benefits that make it viable:
 
@@ -284,8 +281,7 @@ Plutarch's biography of Crassus:
 Full list of Cicero's letters to Atticus:
 [[http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=PerseusLatinTexts&getid=1&query=Cic.%20Att.%2012.32]{.underline}](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=PerseusLatinTexts&getid=1&query=Cic.%20Att.%2012.32)
 
-**\
-**
+
 
 **Bibliography**
 

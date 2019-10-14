@@ -93,10 +93,10 @@ tries to make the enemy give her their shields (Henry & James
 90).
 
 The earliest surviving sources say that Tarpeia betrayed the Romans for
-gold -- in Livy's telling of the myth she asked for what they had "on
-their left arms", meaning the gold ornaments they wore. But there was
+gold -- in Livy's telling of the myth she asked for what they had 'on
+their left arms', meaning the gold ornaments they wore. But there was
 some confusion as the Sabines actually wore their shields on their left
-arms and they "crushed her to death with their shields" ([Livy
+arms and they 'crushed her to death with their shields' ([Livy
 1.11](http://mcadams.posc.mu.edu/txt/ah/Livy/Livy01.html); see Figures 2
 & 3).
 
@@ -309,31 +309,31 @@ Tacitus, *Annales* 1925 trans. J. Jackson.
 
 Modern Sources
 
-Boddington, A. 1963. "Sejanus. Whose Conspiracy?" *The American Journal
+Boddington, A. 1963. 'Sejanus. Whose Conspiracy?'' *The American Journal
 of Philology* 84.1: 1-16.
 
-Bradley, K. 2011. "Slavery in the Roman Republic" in K. Bradley & P.
+Bradley, K. 2011. 'Slavery in the Roman Republic' in K. Bradley & P.
 Cartledge (eds.) *The Cambridge World History of Slavery: Volume 1, The
 Ancient Mediterranean World.* Cambridge University Press: 241-264.
 
-Cadoux, T. J. 2008. "The Roman *Carcer* and Its Adjuncts" *Greece and
+Cadoux, T. J. 2008. 'The Roman *Carcer* and Its Adjuncts' *Greece and
 Rome* 55.2: 202-221.
 
 Coarelli, F. 2014 *Rome and Environs* *(Updated Edition)* University of
 California Press.
 
-Henry, M. M. & James, S. L. 2012 "Women, City, State: Theories,
-Ideologies, and Concepts in the Archaic and Classical Periods" in S. L.
+Henry, M. M. & James, S. L. 2012 'Women, City, State: Theories,
+Ideologies, and Concepts in the Archaic and Classical Periods' in S. L.
 James & S. Dillion (eds.) *A Companion to Women in the Ancient World*.
 Wiley & Blackwell: 84-95.
 
-Sumi, G. S. 2011. "Topography and Ideology: Caesar's Monument and the
-*Aedes Divi Iulii* in Augustan Rome" *The* *Classical Quarterly* 61.1:
+Sumi, G. S. 2011. 'Topography and Ideology: Caesar's Monument and the
+*Aedes Divi Iulii* in Augustan Rome' *The* *Classical Quarterly* 61.1:
 205-229.
 
-Eder, W. 2005. "Augustus and the Power of Tradition" in Karl Galinsky
+Eder, W. 2005. 'Augustus and the Power of Tradition' in Karl Galinsky
 (ed.) *The Cambridge Companion to the Age of Augustus*, Cambridge
 University Press:13-32.
 
-Wiseman, T. P. 1979. "Topography and Rhetoric: The Trial of Manlius"
+Wiseman, T. P. 1979. 'Topography and Rhetoric: The Trial of Manlius'
 *Historia: Zeitschrift für Alte Geschichte* 28.1: 32-50.

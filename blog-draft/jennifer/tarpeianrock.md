@@ -57,7 +57,9 @@ Tarpeian Rock ([Livy
 5.47](http://mcadams.posc.mu.edu/txt/ah/Livy/Livy05.html)).
 
 {% include lightbox.html
-caption="Figure 1. Map of the Capitoline Hill. The circle shows the theorised location of the Tarpeian Rock and the Gemonian Stairs. Photo by [Dafne07](https://commons.wikimedia.org/wiki/File:Capitoline_hill_map.png) (CC BY-SA 4.0)."
+caption="Figure 1. Map of the Capitoline Hill. The circle shows the theorised location of the Tarpeian Rock and the Gemonian Stairs (CC BY-SA 4.0)."
+imageCredit="Photo by Dafne07"
+imageCreditLink="https://commons.wikimedia.org/wiki/File:Capitoline_hill_map.png"
 image="tarpeianrock/trfig1.jpg"
 width="336"
 height="292" %}
@@ -289,6 +291,7 @@ Bibliography
 =============
 
 Ancient Sources
+---------------
 
 Cicero, *Epistulae ad Atticum* 1908 trans. E. Shuckburgh.
 
@@ -308,6 +311,7 @@ Tacitus, *Annales* 1925 trans. J. Jackson.
 
 
 Modern Sources
+--------------
 
 Boddington, A. 1963. 'Sejanus. Whose Conspiracy?'' *The American Journal
 of Philology* 84.1: 1-16.

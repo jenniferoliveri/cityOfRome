@@ -81,7 +81,9 @@ Sabines onto the Capitol ((Henry & James
 90).
 
 {% include lightbox.html
-caption="Figure 2. The Sabines killing Tarpeia. [Public Domain](https://commons.wikimedia.org/wiki/File:Tarpea.jpg)."
+caption="Figure 2. The Sabines killing Tarpeia."
+imageCredit="Public Domain"
+imageCreditLink="https://commons.wikimedia.org/wiki/File:Tarpea.jpg"
 image="tarpeianrock/trfig2.jpg"
 width="640"
 height="471" %}
@@ -107,7 +109,9 @@ the minds of later generations, who decided to make her the namesake of
 the rock they threw their traitors from.
 
 {% include lightbox.html
-caption="Figure 3. Roman frieze from the Basilica Aemilia (from the 1st Century BCE to 1st Century CE). It shows Tarpeia's death. Photo by [Marie-Lan Nguyen](https://commons.wikimedia.org/wiki/File:Frieze_Basilica_Aemilia_Massimo_n3.jpg) (CC BY 2.5)."
+caption="Figure 3. Roman frieze from the Basilica Aemilia (from the 1st Century BCE to 1st Century CE). It shows Tarpeia's death (CC BY 2.5)."
+imageCredit="Photo by Marie-Lan Nguyen"
+imageCreditLink="https://commons.wikimedia.org/wiki/File:Frieze_Basilica_Aemilia_Massimo_n3.jpg"
 image="tarpeianrock/trfig3.jpg"
 width="640"
 height="229" %}
@@ -255,7 +259,9 @@ the bodies were then thrown into the Tiber ([Cass. Dio
 So much for Sejanus.
 
 {% include lightbox.html
-caption="Figure 4. A 17th Century etching, showing the death of Sejanus, original work by Jan Luyken. [Public Domain](https://commons.wikimedia.org/wiki/File:Aelius_Sejanus_Death_etching.png)."
+caption="Figure 4. A 17th Century etching, showing the death of Sejanus, original work by Jan Luyken."
+imageCredit="Public Domain"
+imageCreditLink="https://commons.wikimedia.org/wiki/File:Aelius_Sejanus_Death_etching.png"
 image="tarpeianrock/trfig4.jpg"
 width="478"
 height="600" %}

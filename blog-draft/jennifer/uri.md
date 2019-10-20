@@ -13,9 +13,9 @@ License: CC BY 2.0)
 Link:
 <https://commons.wikimedia.org/wiki/File:Domitian_as_Augustus_cropped.jpg>
 
-Text of the Blog
 
-[Who is Domitian?]{.underline}
+
+**Who was Domitian?**
 
 Domitian was the Roman emperor from 81 to 96AD. He was the third and
 last of the Flavian emperors after his father Vespasian and his brother
@@ -32,8 +32,8 @@ his *damnatio memoriae.*
 But why was Domitian treated like this?
 
 Domitian was not the most popular emperor among the Senatorial class.
-The reason for this was because he had essentially **made** the the
-Senators**' powers** obsolete by dispelling with the Republican façade
+The reason for this was because he had essentially made the
+Senators' powers obsolete by dispelling with the Republican façade
 and instead choosing to rule as a despot, coupled with the enforcement
 of his financial policy and his increasing arrogance that lead to his
 death (Jones, 1992).
@@ -48,11 +48,11 @@ officials and governors of the provinces ([Suet. Dom.
 8](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0132%3Alife%3Ddom.%3Achapter%3D8)).
 
 Understanding the impact that Domitian had on Rome is not an easy job to
-do due to his *damnatio memoriae. The easiest way that we can see
+do due to his *damnatio memoriae*. The easiest way that we can see
 Domitian's impact is in how he helped to develop the city of Rome
-through his extensive building programs.*
+through his extensive building programs.
 
-[Domitian's building program]{.underline}
+**Domitian's building program**
 
 Whilst all of the Roman emperors undertook some form of building
 program, not all of them changed the physical landscape of the city.
@@ -68,7 +68,7 @@ different figure to what has been told to us by the ancient sources. In
 order to do this, buildings will be split into temples, public buildings
 and the palace complex on the Palatine Hill.
 
-[Temples]{.underline}
+**Temples**
 
 The bulk of Domitian's building program was made up of temples, shrines
 and monuments to the gods. Domitian built temples to Jupiter, Juno,
@@ -98,7 +98,7 @@ You can get a sense of the size of this temple by looking at its
 foundation in Figure 2, though these foundations do date to an earlier
 build of the temple.
 
-[Public buildings]{.underline}
+**Public buildings**
 
 The most famous of all the buildings constructed by the Flavian emperors
 was that of the Colosseum. Construction of this monumental structure
@@ -197,81 +197,69 @@ light (Coarelli, 2014).
 
 Images
 
-![800px-Damnatio\_memoriae\_-\_Domitian.jpg](media/image2.jpeg){width="5.935416666666667in"
-height="3.75in"}
+{% include lightbox.html
+caption=" Figure 1: Inscription found in Phillipi, Greece. The name of the Emperor Domitian is erased after his damnatio memeoriae. Inscription reads ‘To the Emperor Vespasian Augustus, father of the country, to Titus Caesar (to Domitian – erased) Caesar, sons of the Augustus out of public expenses’. License: CC BY-SA 3.0"
+imageCredit=“Author Unknown”
+imageCreditLink=“https://commons.wikimedia.org/wiki/File:Damnatio_memoriae_-_Domitian.jpg”
+image="URIimages/urifig1.jpg"
+width="800"
+height="553" %}
 
-Figure 1: Inscription found in Phillipi, Greece. The name of the Emperor
-Domitian is erased after his damnatio memeoriae. Inscription reads 'To
-the Emperor Vespasian Augustus, father of the country, to Titus Caesar
-(to Domitian -- erased) Caesar, sons of the Augustus out of public
-expenses'.
 
-License: CC BY-SA 3.0
+{% include lightbox.html
+caption=" Figure 2: Foundations of the Temple of Jupiter Optimus Maximus. Public Domain."
+imageCredit=“Photo by Joris”
+imageCreditLink=“https://commons.wikimedia.org/wiki/File:Temple_Jupiter_Optimus_Maximus.JPG”
+image="URIimages/urifig2.jpg"
+width="450"
+height="600" %}
 
-Link:
-<https://commons.wikimedia.org/wiki/File:Damnatio_memoriae_-_Domitian.jpg>
 
-![450px-Temple\_Jupiter\_Optimus\_Maximus.jpg](media/image3.jpeg){width="6.175694444444445in"
-height="5.509027777777778in"}
+{% include lightbox.html
+caption=" Figure 3: Obverse of a Sestertius minted under Domitian depicting the Colosseum, RIC II (1) 131, American Numismatic Society. Open Database License."
+imageCredit=“Author Unknown”
+imageCreditLink=“http://numismatics.org/collection/1954.203.170”
+image="URIimages/urifig3.jpg"
+width="205"
+height="205" %}
 
-Figure 2: Foundations of the Temple of Jupiter Optimus Maximus.
 
-License: Photo by Joris. Public Domain
+{% include lightbox.html
+caption=" Figure 4: Map of Rome. 1.Stadium of Domitian; 2. Odeum of Domitian; 3. Temple of Jupiter Optimus Maximus; 4. Forum Transitorium (Forum Nervae); 5. Colosseum; 6. Palace of Domitian. Public Domain."
+imageCredit=“Map by ColdEel”
+imageCreditLink=“https://commons.wikimedia.org/wiki/File:Plan_Rome-_Regiones.png”
+image="URIimages/urifig4.png"
+width="682"
+height="544" %}
 
-Link:
-<https://commons.wikimedia.org/wiki/File:Temple_Jupiter_Optimus_Maximus.JPG>
 
-![default%20(1).jpg](media/image4.jpeg){width="3.9256944444444444in"
-height="3.629861111111111in"}
+{% include lightbox.html
+caption=" Figure 5: Map showing the location of the Forum Transitorium (Forum Nervae)
+ Public Domain."
+imageCredit=“Photo by Joris”
+imageCreditLink=“https://commons.wikimedia.org/wiki/File:Temple_Jupiter_Optimus_Maximus.JPG”
+image="URIimages/urifig5.jpg"
+width="800"
+height="565" %}
 
-Figure 3: Obverse of a Sestertius minted under Domitian depicting the
-Colosseum, RIC II (1) 131, American Numismatic Society.
 
-License: Public Domain
+{% include lightbox.html
+caption=" Figure 6: Domitian’s Palace Licence: CC BY-SA 3.0"
+imageCredit=“Author Unknown”
+imageCreditLink=“https://commons.wikimedia.org/wiki/File:Palatin-legende.jpg”
+image="URIimages/urifig6.jpg"
+width="800"
+height="348" %}
 
-Link: <http://numismatics.org/collection/1954.203.170>
 
-![Screen%20Shot%202019-05-30%20at%208.28.11%20PM.png](media/image5.png){width="5.444444444444445in"
-height="4.342361111111111in"}
+{% include lightbox.html
+caption="Figure 7: ‘Stadium’ on the Palatine Licence: CC BY 2.0"
+imageCredit=“Author Unknown”
+imageCreditLink=“https://commons.wikimedia.org/wiki/File:Palatine_stadium_of_Domitian.jpg”
+image="URIimages/urifig7.jpg"
+width="800"
+height="600" %}
 
-Figure 4: Map of Rome. 1.Stadium of Domitian; 2. Odeum of Domitian; 3.
-Temple of Jupiter Optimus Maximus; 4. Forum Transitorium (Forum Nervae);
-5. Colosseum; 6. Palace of Domitian.
-
-License: Map by ColdEel, Public Domain
-
-Link:
-[[https://commons.wikimedia.org/wiki/File:Plan\_Rome-\_Regiones.png]{.underline}](https://commons.wikimedia.org/wiki/File:Plan_Rome-_Regiones.png)
-
-![Map\_of\_downtown\_Rome\_during\_the\_Roman\_Empire\_large-annotated.jpg](media/image6.jpeg){width="6.25in"
-height="4.416666666666667in"}
-
-Figure 5: Map showing the location of the Forum Transitorium (Forum
-Nervae)
-
-License: Photo by Joris. Public Domain
-
-Link:
-<https://commons.wikimedia.org/wiki/File:Temple_Jupiter_Optimus_Maximus.JPG>
-
-![alatin-legende.jpg](media/image7.jpeg){width="6.26875in"
-height="2.592361111111111in"}
-
-Figure 6: Domitian's Palace
-
-Licence: CC BY-SA 3.0
-
-Link: <https://commons.wikimedia.org/wiki/File:Palatin-legende.jpg>
-
-![800px-Palatine\_stadium\_of\_Domitian.jpg](media/image8.jpeg){width="6.26875in"
-height="4.7034722222222225in"}
-
-Figure 7: 'Stadium' on the Palatine
-
-Licence: CC BY 2.0
-
-Link:
-<https://commons.wikimedia.org/wiki/File:Palatine_stadium_of_Domitian.jpg>
 
 Guide to Further Reading
 

@@ -58,7 +58,7 @@ Tarpeian Rock ([Livy
 
 {% include lightbox.html
 caption="Figure 1. Map of the Capitoline Hill. The circle shows the theorised location of the Tarpeian Rock and the Gemonian Stairs (CC BY-SA 4.0)."
-imageCredit="Photo by Dafne07"
+imageCredit="Photo by Dafne07."
 imageCreditLink="https://commons.wikimedia.org/wiki/File:Capitoline_hill_map.png"
 image="tarpeianrock/trfig1.jpg"
 width="336"
@@ -82,7 +82,7 @@ Sabines onto the Capitol ((Henry & James
 
 {% include lightbox.html
 caption="Figure 2. The Sabines killing Tarpeia."
-imageCredit="Public Domain"
+imageCredit="Public Domain."
 imageCreditLink="https://commons.wikimedia.org/wiki/File:Tarpea.jpg"
 image="tarpeianrock/trfig2.jpg"
 width="640"
@@ -110,7 +110,7 @@ the rock they threw their traitors from.
 
 {% include lightbox.html
 caption="Figure 3. Roman frieze from the Basilica Aemilia (from the 1st Century BCE to 1st Century CE). It shows Tarpeia's death (CC BY 2.5)."
-imageCredit="Photo by Marie-Lan Nguyen"
+imageCredit="Photo by Marie-Lan Nguyen."
 imageCreditLink="https://commons.wikimedia.org/wiki/File:Frieze_Basilica_Aemilia_Massimo_n3.jpg"
 image="tarpeianrock/trfig3.jpg"
 width="640"
@@ -202,7 +202,7 @@ and the Emperor trusted Sejanus to such a degree he described him as
 'the partner of \[his\] labours' ([Tac. *Ann.*
 4.2](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/4A*.html#ref6)).
 
-But it seems Tiberius' trust was misplaced.
+But, it seems Tiberius' trust was misplaced.
 
 When Tiberius' son, Drusus, was poisoned the ancient sources painted
 Sejanus as the primary suspect. Although it is important to look at them
@@ -260,7 +260,7 @@ So much for Sejanus.
 
 {% include lightbox.html
 caption="Figure 4. A 17th Century etching, showing the death of Sejanus, original work by Jan Luyken."
-imageCredit="Public Domain"
+imageCredit="Public Domain."
 imageCreditLink="https://commons.wikimedia.org/wiki/File:Aelius_Sejanus_Death_etching.png"
 image="tarpeianrock/trfig4.jpg"
 width="478"

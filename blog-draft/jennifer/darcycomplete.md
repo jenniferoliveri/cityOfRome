@@ -1,11 +1,20 @@
 ---
 layout: post
-title: 'The Richest Man in History'
-link-citation: true
-bibliography: pantheonbib.json
-csl: elsevier-harvard.csl
+cover: '/assets/images/DarcyCowan/darcybanner.jpg'
+caption: 'The First Triumvirate of the Roman Republic, WikiCommons, Public Domain.'
+captionLink: https://commons.wikimedia.org/wiki/File:The_First_Triumvirate_of_the_Roman_Republic_1200X800.jpg
+title: "The Richest Man in History? Crassus and Real Estate in Late Republican Rome"
+date: 2019-11-01 16:00:00
+tags:
+ - rome
+ - archaeology
+ - Crassus
+ - Real Estate
+ - Republican Rome
+category:
+ - post
+author: Darcy Cowan
 ---
-## By Darcy Cowan
 
 _Marcus Licinius Crassus was one of the most powerful men in Rome during his day, but how did he get this power? Remarked upon as one of the richest men in history, Crassus used events in Rome to his advantage by buying up cheap housing that had been ravaged by fire. Darcy Cowan explains how the particular context of Rome at this time allowed Crassus to become such a wealthy man, as well as a powerful political player._
 

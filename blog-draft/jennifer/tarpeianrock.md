@@ -317,7 +317,7 @@ Tacitus, *Annales* 1925 trans. J. Jackson.
 Modern Sources
 --------------
 
-Boddington, A. 1963. 'Sejanus. Whose Conspiracy?'' *The American Journal
+Boddington, A. 1963. 'Sejanus. Whose Conspiracy?' *The American Journal
 of Philology* 84.1: 1-16.
 
 Bradley, K. 2011. 'Slavery in the Roman Republic' in K. Bradley & P.

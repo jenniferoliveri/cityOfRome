@@ -132,7 +132,7 @@ But it wasn't all theirs. The Twelves Tables, Rome's first code of law,
 says that slaves caught committing 'manifest theft' would be thrown down
 as well (Bradley
 [2011](https://books.google.com.au/books?redir_esc=y&id=f4x041s0wlsC&q=Slavery+in+the+Roman+Republic%E2%80%99#v=onepage&q&f=false):
-243), and they were sometimes accompanied by with those who lied in
+243), and they were sometimes accompanied by those who lied in
 court (Cadoux
 [2008](https://www.jstor.org/stable/20204210?seq=1#page_scan_tab_contents):
 216).
@@ -217,8 +217,7 @@ as Emperor and Cassius Dio reports that Tiberius never returned Rome
 During Sejanus' period in power, Tacitus recorded that the only way to
 win his favour was with criminal acts ([*Ann.*
 4.68](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/4E*.html#ref25)).
-This might be part of the reason why Tiberius suddenly ordered him
-executed, however, no one knows exactly why he was executed although
+This might be part of the reason why Tiberius suddenly ordered for Sejanus to be executed, however, no one knows exactly why he was executed although
 treason is frequently mentioned in the sources. Cassius Dio also offers
 an interesting alternative, stating Tiberius fabricated charges to get
 rid of Sejanus (Boddington
@@ -243,11 +242,10 @@ that they reportedly left their mutilated bodies there for three days
 58.11](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/58*.html)).
 The bodies were then dragged with hooks and thrown into the Tiber.
 
-Ironically, some sources report a supposed sign of his fall when Sejanus
-was still in favour. After performing a sacrifice at the Capitoline
+Other sources also report a supposed omen of Sejanus' fall when he was still in power. They write that after performing a sacrifice at the Capitoline
 Hill, his bodyguards lost him in the crowd, he went down the path
 leading to the prison from the Hill and ending up falling down the
-Gemonian Stairs ([Cass. Dio
+Gemonian Stairs! ([Cass. Dio
 58.5](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/58*.html)).
 
 Ultimately the Tarpeian Rock was involved in this affair. After Sejanus'

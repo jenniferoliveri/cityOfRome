@@ -58,7 +58,7 @@ Tarpeian Rock ([Livy
 
 {% include lightbox.html
 caption="Figure 1. Map of the Capitoline Hill. The circle shows the theorised location of the Tarpeian Rock and the Gemonian Stairs (CC BY-SA 4.0)."
-imageCredit="Photo by Dafne07"
+imageCredit="Photo by Dafne07."
 imageCreditLink="https://commons.wikimedia.org/wiki/File:Capitoline_hill_map.png"
 image="tarpeianrock/trfig1.jpg"
 width="336"
@@ -82,7 +82,7 @@ Sabines onto the Capitol ((Henry & James
 
 {% include lightbox.html
 caption="Figure 2. The Sabines killing Tarpeia."
-imageCredit="Public Domain"
+imageCredit="Public Domain."
 imageCreditLink="https://commons.wikimedia.org/wiki/File:Tarpea.jpg"
 image="tarpeianrock/trfig2.jpg"
 width="640"
@@ -110,7 +110,7 @@ the rock they threw their traitors from.
 
 {% include lightbox.html
 caption="Figure 3. Roman frieze from the Basilica Aemilia (from the 1st Century BCE to 1st Century CE). It shows Tarpeia's death (CC BY 2.5)."
-imageCredit="Photo by Marie-Lan Nguyen"
+imageCredit="Photo by Marie-Lan Nguyen."
 imageCreditLink="https://commons.wikimedia.org/wiki/File:Frieze_Basilica_Aemilia_Massimo_n3.jpg"
 image="tarpeianrock/trfig3.jpg"
 width="640"
@@ -132,7 +132,7 @@ But it wasn't all theirs. The Twelves Tables, Rome's first code of law,
 says that slaves caught committing 'manifest theft' would be thrown down
 as well (Bradley
 [2011](https://books.google.com.au/books?redir_esc=y&id=f4x041s0wlsC&q=Slavery+in+the+Roman+Republic%E2%80%99#v=onepage&q&f=false):
-243), and they were sometimes accompanied by with those who lied in
+243), and they were sometimes accompanied by those who lied in
 court (Cadoux
 [2008](https://www.jstor.org/stable/20204210?seq=1#page_scan_tab_contents):
 216).
@@ -202,7 +202,7 @@ and the Emperor trusted Sejanus to such a degree he described him as
 'the partner of \[his\] labours' ([Tac. *Ann.*
 4.2](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/4A*.html#ref6)).
 
-But it seems Tiberius' trust was misplaced.
+But, it seems Tiberius' trust was misplaced.
 
 When Tiberius' son, Drusus, was poisoned the ancient sources painted
 Sejanus as the primary suspect. Although it is important to look at them
@@ -217,8 +217,7 @@ as Emperor and Cassius Dio reports that Tiberius never returned Rome
 During Sejanus' period in power, Tacitus recorded that the only way to
 win his favour was with criminal acts ([*Ann.*
 4.68](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/4E*.html#ref25)).
-This might be part of the reason why Tiberius suddenly ordered him
-executed, however, no one knows exactly why he was executed although
+This might be part of the reason why Tiberius suddenly ordered for Sejanus to be executed, however, no one knows exactly why he was executed although
 treason is frequently mentioned in the sources. Cassius Dio also offers
 an interesting alternative, stating Tiberius fabricated charges to get
 rid of Sejanus (Boddington
@@ -243,11 +242,10 @@ that they reportedly left their mutilated bodies there for three days
 58.11](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/58*.html)).
 The bodies were then dragged with hooks and thrown into the Tiber.
 
-Ironically, some sources report a supposed sign of his fall when Sejanus
-was still in favour. After performing a sacrifice at the Capitoline
+Other sources also report a supposed omen of Sejanus' fall when he was still in power. They write that after performing a sacrifice at the Capitoline
 Hill, his bodyguards lost him in the crowd, he went down the path
 leading to the prison from the Hill and ending up falling down the
-Gemonian Stairs ([Cass. Dio
+Gemonian Stairs! ([Cass. Dio
 58.5](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/58*.html)).
 
 Ultimately the Tarpeian Rock was involved in this affair. After Sejanus'
@@ -260,7 +258,7 @@ So much for Sejanus.
 
 {% include lightbox.html
 caption="Figure 4. A 17th Century etching, showing the death of Sejanus, original work by Jan Luyken."
-imageCredit="Public Domain"
+imageCredit="Public Domain."
 imageCreditLink="https://commons.wikimedia.org/wiki/File:Aelius_Sejanus_Death_etching.png"
 image="tarpeianrock/trfig4.jpg"
 width="478"
@@ -319,7 +317,7 @@ Tacitus, *Annales* 1925 trans. J. Jackson.
 Modern Sources
 --------------
 
-Boddington, A. 1963. 'Sejanus. Whose Conspiracy?'' *The American Journal
+Boddington, A. 1963. 'Sejanus. Whose Conspiracy?' *The American Journal
 of Philology* 84.1: 1-16.
 
 Bradley, K. 2011. 'Slavery in the Roman Republic' in K. Bradley & P.

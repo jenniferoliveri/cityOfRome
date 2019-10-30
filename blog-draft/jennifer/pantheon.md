@@ -1,6 +1,17 @@
 ---
 layout: post
-title: 'The PANTHEON!'
+cover: '/assets/images/pantheon/header.jpg'
+caption: 'The Pantheon in all its glory. Photo by Roberta Dragan.'
+captionLink: https://commons.wikimedia.org/wiki/File:Rome_Pantheon_front.jpg
+title: 'The Pantheon!'
+date:
+tags:
+ - rome
+ - archaeology
+ - Pantheon
+category:
+ - post
+author: tamlin
 ---
 
 By Tamlin Creighton-See
@@ -14,8 +25,7 @@ many mysteries, and its sheer longevity.
 
 If you'd yelled out 'THE PANTHEON! when asked at trivia night 'What's
 the world's largest un-reinforced concrete dome?', you'd be right. But
-who designed it? What was it used for? Not to mention that big open hole
-in the top.
+who designed it? What was it used for? And what's with that big open hole in the top?
 
 Well, fear not! Because once you've reached the end of this blog you'll
 have the answer to all of these questions, plus the answer to the best
@@ -182,7 +192,7 @@ stairs were no longer necessary (Ressler
 The vestibule links the portico to the main circular drum that is the
 Rotunda. Once inside, the Rotunda makes for an incredible sight, its
 windowless round walls, exactly 43 meters tall and 43 meters wide, form
-a perfect sphere! (see figure 7; Waddell
+a perfect sphere! (see figure 6; Waddell
 [2015](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n157):
 133).
 
@@ -239,7 +249,7 @@ pumice mixed together with volcanic slag (Martines
 126-7). This process lessened the otherwise significant amount of
 lateral thrust the dome would have exerted onto the drum.
 
-The honeycomb patterns (or coffers) and Oculus (seen in figure 7), while
+The honeycomb patterns (or coffers) and Oculus (seen in figure 6), while
 pleasing to the eye, served more than an aesthetic purpose. They again
 helped make the dome lighter to further reduce lateral thrust (Martines
 [2015](https://archive.org/details/ThePantheonFromAntiquityToThePresentTodA.MarderMARKWILSONJONES2015/page/n120):

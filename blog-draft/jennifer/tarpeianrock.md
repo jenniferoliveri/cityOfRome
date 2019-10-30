@@ -14,8 +14,6 @@ category:
 author: zachary
 ---
 
-By Zachary Hale
-----------------
 
 The Ancient Romans are notorious for their creative methods of killing
 people: crucifixion, decimation, and the dreadful *damnatio ad bestia*

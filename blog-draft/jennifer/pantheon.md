@@ -14,9 +14,6 @@ category:
 author: tamlin
 ---
 
-By Tamlin Creighton-See
------------------------
-
 Immediately after hearing that hallowed name images of domes, grand open
 spaces and columns are brought to mind (and porticos too if you know
 your terminology!). Few buildings have captured the imagination of the
@@ -58,7 +55,7 @@ This early Pantheon was very different in shape to the one we are used
 to today, missing the iconic dome on top.
 
 {% include lightbox.html
-caption="Figure 2. Marcus Agrippa looking sad, probably because his Pantheon wasn’t received as intended by Augustus (CC by 2.5)."
+caption="Figure 2. Marcus Agrippa looking sad, probably because his Pantheon wasn't received as intended by Augustus (CC by 2.5)."
 imageCredit="Photo by Marie-Lan Nguyen"
 imageCreditLink="https://commons.wikimedia.org/wiki/File:Agrippa_Gabii_Louvre_Ma1208.jpg"
 image="pantheon/figure2.jpg"

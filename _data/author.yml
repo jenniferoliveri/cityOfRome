@@ -80,3 +80,18 @@ authors:
       url: "https://"
       bio: "<p> Siobhan Christie is an undergraduate student at the University of Macquarie studying a Bachelor of Arts/Bachelor of Education (Secondary), majoring in Greece, Rome and Late Antiquity. Siobhan loves travelling to the places she gets to study and is impassioned by exploring ruins, due to the intimate connection they provide to those who lived in the ancient world. It's this passion she hopes to instil in her future students. Her research interests include Ancient Roman and Greek religion, Early Imperial Rome, women in the ancient world and the emergence of the Byzantine Empire.<p>"
       assets: "assets/people/SiobhanPic.jpg"
+  tamlin:
+    username: "tamlin"
+    name: "Tamlin Creighton-See"
+    location: "Macquarie University"
+    url_full: "https://"
+    url: "https://"
+    bio: "<p> <p>"
+    assets: "assets/people/tamlin.jpg"
+  zachary:
+    username: "zachary"
+    name: "Zachary Hale"
+    location: "Macquarie University"
+    url_full: "https://"      url: "https://"
+    bio: "<p>Zachary Hale is a history student, who likes most areas of history equally. He holds an interest in reading ancient books, and is planning on reading the Aeneid to stave off boredom when he gets the chance. He can’t remember at all why he has this interest in ancient history, but he does know he enjoys learning about the Middle Ages, the Renaissance, Celtic legends, and the Central and South America civilisations like the Aztecs and Incas. However, he also is studying a science major, but has no idea of what he would like do when he has finished university.<p>"
+    assets: ""

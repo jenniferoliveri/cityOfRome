@@ -1,10 +1,19 @@
 ---
 layout: post
+cover: '/assets/images/tarpeianrock/trheader.jpg'
+caption: 'Engraving from a painting by Benedict Masson, Le Magasin Pittoresque. Photo by seriykotik1970.'
+captionLink: https://commons.wikimedia.org/wiki/File:The_Tarpeian_Rock_(6856010543).jpg
 title: 'Fallen from Grace: The Victims of the Tarpeian Rock'
+date:
+tags:
+ - rome
+ - archaeology
+ - tarpeianrock
+category:
+ - post
+author: zachary
 ---
 
-By Zachary Hale
-----------------
 
 The Ancient Romans are notorious for their creative methods of killing
 people: crucifixion, decimation, and the dreadful *damnatio ad bestia*
@@ -142,7 +151,7 @@ the *mythical* time of Romulus (about 750BC), when he ordered some
 unfortunate bandits be flung from the Rock ([Dion. Hal. *Ant. Rom.*
 2.56.3](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/2B*.html#ref74)).
 However, as the existence of Romulus is highly uncertain, a more
-*historical* first recorded use (and one of the earlies recorded uses of
+*historical* first recorded use (and one of the earliest recorded uses of
 a criminal condemned of treason being killed here) was a bit later in
 485 BCE.
 
@@ -243,8 +252,8 @@ that they reportedly left their mutilated bodies there for three days
 The bodies were then dragged with hooks and thrown into the Tiber.
 
 Other sources also report a supposed omen of Sejanus' fall when he was still in power. They write that after performing a sacrifice at the Capitoline
-Hill, his bodyguards lost him in the crowd, he went down the path
-leading to the prison from the Hill and ending up falling down the
+Hill, his bodyguards lost him in the crowd, they went down the path
+leading to the prison from the Hill and his bodyguards ending up falling down the
 Gemonian Stairs! ([Cass. Dio
 58.5](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/58*.html)).
 

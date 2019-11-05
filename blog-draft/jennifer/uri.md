@@ -1,18 +1,19 @@
-Title of Post: Domitian -- Our Lord, God and Master Builder
-
-Your Name: Uri Bronotte
-
-Hero Banner
-
-![../../405px-Domitian\_as\_Augustus\_cropped.jpg](media/image1.jpeg){width="6.064583333333333in"
-height="6.314583333333333in"}\
-Caption: Statue of Domitian
-
-License: CC BY 2.0)
-
-Link:
-<https://commons.wikimedia.org/wiki/File:Domitian_as_Augustus_cropped.jpg>
-
+---
+layout: post
+cover: '/assets/images/pantheon/header.jpg'
+caption: 'The Odeum of Domitian, scale model. Public Domain.'
+captionLink: https://commons.wikimedia.org/wiki/Domitianus#/media/File:Campus_Martius_-_Odeum_of_Domitian.jpg
+title: 'Domitian -- Our Lord, God and Master Builder'
+date:
+tags:
+ - rome
+ - architecture
+ - Domitian
+ - Emperor
+category:
+ - post
+author: uri
+---
 
 
 **Who was Domitian?**
@@ -29,7 +30,7 @@ his statues smashed or reworked ([Suet. Dom.
 Figure 1 shows an inscription in which Domitian's name was erased after
 his *damnatio memoriae.*
 
-But why was Domitian treated like this?
+**But why was Domitian treated like this?**
 
 Domitian was not the most popular emperor among the Senatorial class.
 The reason for this was because he had essentially made the
@@ -263,44 +264,29 @@ height="600" %}
 
 Guide to Further Reading
 
-Expedition - Domitian\'s Rule: [Youtube
+Expedition - Domitian's Rule: [Youtube
 video](https://www.youtube.com/watch?v=VGBljR26uY4) on Domitian
 published by Penn Museum. This is a short video in which Dr. Brian Ross
 gives a nice overview of Domitian and his reign.
 
-[Waters, K. H., (1964), "The Character of Domitian", Phoenix, 18 (1),
-49-77.](https://www.jstor.org/stable/1086912?seq=1#page_scan_tab_contents)
+Waters, K. H. 1964. *"The Character of Domitian"*, Phoenix, 18 (1),
+49-77.]
 
-[Zissos, A., (2016), A Companion to the Flavian Age of Imperial Rome,
-Chichester.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118878149)
+[Zissos, A. 2016. *A Companion to the Flavian Age of Imperial Rome,
+Chichester.*
 
 Bibliography
 
-Anderson, J., (1983), "A Topographical Tradition in Fourth Century
-Chronicles: Domitian\'s Building Program", *Historia*, 32(1), 93-105.
+Anderson, J. 1983. *A Topographical Tradition in Fourth Century
+Chronicles: Domitian\'s Building Program*, *Historia*, 32(1), 93-105.
 
-Coarelli, F., (2014), *Rome and Environs. An Archaeological
-Guide, *Berkeley.
+Coarelli, F. 2014. *Rome and Environs. An Archaeological
+Guide,* Berkeley.
 
-Darwall‐Smith, R., (1996), *Emperors and Architecture: A Study of
+Darwall‐Smith, R. 1996. *Emperors and Architecture: A Study of
 Flavian Rome*, Brussels.
 
-Jones, B.W., (1992), *The Emperor Domitian*, London and New York.
+Jones, B.W. 1992. *The Emperor Domitian*, London and New York.
 
-Robathan, D.M., (1942), "Domitian\'s Midas-Touch", *Transactions and
+Robathan, D.M. 1942. Domitian's Midas-Touch, *Transactions and
 Proceedings of the American Philological Association*, 73, 130-144.
-
-Biography
-
-My name is Uri. I am studying a Bachelor of Education with a Bachelor of
-Arts, majoring in Ancient History. Since a young age I have always had a
-real interest in ancient history and especially Roman history, simply
-due to the extravagant characters and how they were represented in the
-Empire's long history. My love of Rome became an infatuation in 2018
-when I had the chance to spend three weeks in the eternal city. I found
-myself walking the streets of the city from the first light of day until
-long after the sun had gone down.
-
-Author Thumbnail\
-![../Desktop/IMG\_5282%20(1).JPG](media/image9.jpeg){width="2.80625in"
-height="2.979060586176728in"}

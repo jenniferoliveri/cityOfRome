@@ -69,7 +69,7 @@ authors:
     location: "Macquarie University"
     url_full: "https://"
     url: "https://"
-    bio: "Darcy Cowan is a final year ancient history student at Macquarie University, majoring in Greek and Roman history. Ancient history has been one of his passions since year 10, when the enthusiasm of his teacher, Mrs. Hildreth, rubbed off on him. Late Republican Rome is his special area of interest, and he has written many papers on the civil wars as well as transition from republic to empire. "
+    bio: "Darcy Cowan is a final year ancient history student at Macquarie University, majoring in Greek and Roman history. Ancient history has been one of his passions since year 10, when the enthusiasm of his teacher, Mrs. Hildreth, rubbed off on him. Late Republican Rome is his special area of interest, and he has written many papers on the civil wars as well as transition from Republic to Empire. "
     assets: "assets/people/Darcypicture.jpeg"
   siobhan:
     username: "siobhan"
@@ -95,3 +95,19 @@ authors:
     url: "https://"
     bio: "Zachary Hale is a history student, who likes most areas of history equally. He holds an interest in reading ancient books, and is planning on reading the Aeneid to stave off boredom when he gets the chance. He can't remember at all why he has this interest in ancient history, but he does know he enjoys learning about the Middle Ages, the Renaissance, Celtic legends, and the Central and South America civilisations like the Aztecs and Incas. However, he also is studying a science major, but has no idea of what he would like do when he has finished university. "
     assets: ""
+  treadwell:
+    username: "treadwell"
+    name: "Lee Treadwell"
+    location: "Macquarie University"
+    url_full: "https://"
+    url: "https://"
+    bio: "Lee Treadwell resides in Brisbane, Australia. I am currently completing my second university degree which is a bachelor of Ancient History through Macquarie University. The ancient Romans appeal to many of Lee's interests as their society has numerous similarities to our own. "
+    assets: "assets/people/leeface.jpg"
+  uri:
+    username: "uri"
+    name: "Uri Bronotte"
+    location: "Macquarie University"
+    url_full: "https://"
+    url: "https://"
+    bio: "Uri is a student at Macquarie University studying a Bachelor of Education with a Bachelor of Arts majoring in Ancient History and has been interested in Ancient Rome from a young age. This interest would turn into an infatuation with the city in 2018 when he had a chance to spend 3 weeks there. He enjoys long walks on the beach."
+    assets: "assets/people/urihead.jpg"

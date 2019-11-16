@@ -1,5 +1,19 @@
-Slums of Rome-Life in the *Subura*
-==================================
+---
+layout: post
+cover: '/assets/images/Cubbitt/Subura_header.jpg'
+caption: 'An Idealised Depiction of the Roman Slum. Photo by Enrico Marini.'
+captionLink: https://abload.de/img/k800_subura-rome-illut4q7r.jpg
+title: 'Slums of Rome - Life in the Subura'
+date:
+tags:
+ - Rome
+ - subura
+ - slums
+ - Caesar
+category:
+ - post
+author: Ryan James Cubitt
+---
 
 In what is considered by many to be the worst part of Rome, the young
 Julius Caesar would grow up to become the immortal figure we know today.
@@ -12,7 +26,15 @@ and wet. Yet this is a place where someone as influential as Caesar
 could live, so what can we gather about this lesser-known area of Rome?
 
 The Ancient Melting Pot
------------------------
+=======================
+
+{% include lightbox.html
+caption="Figure 1. The Subura between the Viminal and Cispian Hills."
+imageCredit="S. B. Platner"
+imageCreditLink="https://commons.wikimedia.org/wiki/File:The_Topography_and_Monuments_of_Ancient_Rome_cropped.jpg"
+image="Cubbitt/Subura_Map.jpg"
+width="418"
+height="335" %}
 
 The *Subura* existed between the Viminal and Cispian Hills, nestled in a
 valley on the north-eastern side of the Roman Forum. This spot in the
@@ -36,7 +58,7 @@ something we can see in our own modern day, with many areas that are
 heavier in crime also showing higher levels of poverty due to
 desperation and the simple need to survive.
 
-*The Subura is made up of many different buildings and landmarks, as
+The Subura is made up of many different buildings and landmarks, as
 befits a region of its size, and can be characterised through what it is
 like to travel through it. There are known to be multiple monumental
 fountains at crossroads ([Malmberg, 2008;
@@ -63,23 +85,31 @@ among others ([Martial.
 This idea of the Subura as a place to obtain exotic and exquisite goods
 is something that doesn't seem to be shared with the rest of the city,
 as a result much of the identity of the district is based around this
-fact which is of great interest to modern scholars.*
+fact which is of great interest to modern scholars.
 
-*This region of Rome is also of note because of just how much of our
+This region of Rome is also of note because of just how much of our
 knowledge is based on ancient writing as opposed to archaeological
 evidence, as being a district of primarily housing it is likely to have
 been demolished and paved over many times since the age of the Caesars.
-Today if we were to visit the Subura we would see an abundance of
+Today if we were to visit the *Subura* we would see an abundance of
 churches, (Andrews, 2014; 63) but this primarily originates from the
 early Medieval period, and thus doesn't give us an accurate image of
-what the Subura would have looked like. It is apparent though that the
+what the *Subura* would have looked like. It is apparent though that the
 houses further down the hills belonged to those who were less wealthy,
 and those higher up the hills had larger and more spacious residences.
 The poorest on the other hand were in badly assembled and cramped blocks
-that are described by Juvenal as prone to collapse.*
+that are described by Juvenal as prone to collapse
 
 A Home to Caesar
-----------------
+================
+
+{% include lightbox.html
+caption="Figure 2. Gaius Julius Caesar, held at the Vatican Museum."
+imageCredit="Author Unknown"
+imageCreditLink="https://commons.wikimedia.org/wiki/File:Gaius_Iulius_Caesar_Vatican.jpeg"
+image="Cubbitt/Julius_Caesar.jpg"
+width="512"
+height="768" %}
 
 As well as being a notorious region of the city, the *Subura* is a
 region of importance in the life of Julius Caesar. Suetonius mentions
@@ -106,41 +136,55 @@ contested information at the very least, and at worst a complete guess
 by Dio who is writing much later.
 
 The Spark that Lit the Fuse
----------------------------
+===========================
 
-*64AD was an important year for Rome as a city, as it was the year in
+{% include lightbox.html
+caption="Figure 3. Equestrian statue of Nero, by Stradanus."
+imageCredit="Stradanus"
+imageCreditLink="https://commons.wikimedia.org/wiki/File:Plate_6-_equestrian_statue_of_Nero,_seen_from_behind,_the_Great_Fire_of_Rome_in_the_background,_from_%27Roman_Emperors_on_Horseback%27_MET_DP877295.jpg"
+image="Cubbitt/Nero.jpg"
+width="512"
+height="768" %}
+
+64AD was an important year for Rome as a city, as it was the year in
 which the Great Fire gutted it. Under the reign of Nero, who is now seen
 as at least partially responsible, the fire tore through much of Rome
 and left many regions in vast states of disrepair. It is unknown just
-how much of the Subura was destroyed, although it is debated to be one
+how much of the *Subura* was destroyed, although it is debated to be one
 of the 3 regions Tacitus ([Tacitus.
 15.38-43](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html#44))
-describes as completely flattened*[^1]*. It is likely that the Subura
+describes as completely flattened ([Byles, 2013; 82](https://cronfa.swan.ac.uk/Record/cronfa42629)). It is likely that the Subura
 was intended to benefit from the increased building regulations under
 Nero's reign, but later sources ([Juvenal.
 3.5-9](https://en.wikisource.org/wiki/Juvenal_and_Persius/The_Satires_of_Juvenal/Satire_3))
 suggest that the current buildings were still as haphazard and dangerous
 as they had always been. As a result, fire and building collapse was an
-ever-present danger to those who resided in the Subura. This shows a
+ever-present danger to those who resided in the *Subura*. This shows a
 definite continuation of the poor construction of residential buildings
 in the district, and suggests that people who lived there were poorer
 and more desperate due to such dangerous conditions, giving us an
 insight into the lives of the more destitute. Martial writes in one of
 his satirical Epigrams the following, which suggests that some owners of
 houses in Rome deliberately burned their own homes down to resell the
-property at a higher price after the destruction.*
+property at a higher price after the destruction.
 
-***\"Tongilianus, you paid two hundred for your house;***
-
-***An accident too common in this city destroyed it.***
-
-***You collected ten times more. Doesn\'t it seem, I pray,***
-
-***That you set fire to your own house, Tongilianus?\"* ([Martial.
-3.52](http://www.tertullian.org/fathers/martial_epigrams_book03.htm))**
+*\"Tongilianus, you paid two hundred for your house;
+An accident too common in this city destroyed it.
+You collected ten times more. Doesn\'t it seem, I pray,
+That you set fire to your own house, Tongilianus?\"*
+([Martial.
+3.52](http://www.tertullian.org/fathers/martial_epigrams_book03.htm))
 
 The Imperial *Suburba*
-----------------------
+======================
+
+{% include lightbox.html
+caption="Figure 4. The Forum of Nerva as Seen Today."
+imageCredit="Jordiferrer"
+imageCreditLink="https://commons.wikimedia.org/wiki/File:2016_-_Forum_Nervae.jpg"
+image="Cubbitt/Forum_Nerva.jpg"
+width="418"
+height="335" %}
 
 As Rome developed more into an Imperial capital throughout the 1^st^ and
 2^nd^ centuries AD, the *Subura* became more encroached upon by
@@ -164,9 +208,10 @@ purpose of the Temple ([Anderson, 1982;
 108](https://www.jstor.org/stable/504296?seq=1)).
 
 Bibliography
-------------
+============
 
-### Modern Sources
+Modern Sources
+--------------
 
 Malmberg, Simon "Finding your way in the Subura" Driessen, M., Heeren,
 S., Hendriks, J., Kemmers, F., and Visser, R. (eds.) (2009) *TRAC 2008:
@@ -201,19 +246,17 @@ Lott, J. Bert "Regions and Neighbourhoods" in Paul Erdkamp *The
 Cambridge Companion to Ancient Rome* (September 2013) pp. 169-89,
 Cambridge University Press
 
-### Ancient Sources
+Ancient Sources
+---------------
 
-Martial, *Epigrams*
+Martial. *Epigrams, Volume I: Spectacles, Books 1-5*. Edited and translated by D. R. Shackleton Bailey. Loeb Classical Library 94. Cambridge, MA: Harvard University Press, 1993.
 
-*Juvenal, Satires*
+Juvenal. *Juvenal and Persius: Satire XI*. Translated by George Gilbert Ramsay. Loeb Classical Library. London, UK: William Heinemann
 
-Suetonius, *Life of Julius Caesar*
+Suetonius. *Lives of the Caesars, Volume I: Julius. Augustus. Tiberius. Gaius. Caligula*. Translated by J. C. Rolfe. Introduction by K. R. Bradley. Loeb Classical Library 31. Cambridge, MA: Harvard University Press, 1914.
 
-*Tacitus, Annals*
+Tacitus. *Histories: Books 4-5. Annals: Books 1-3*. Translated by Clifford H. Moore, John Jackson. Loeb Classical Library 249. Cambridge, MA: Harvard University Press, 1931.
 
-Cicero, *Letters to Atticus*
+Cicero. *Letters to Atticus, Volume I*. Edited and translated by D. R. Shackleton Bailey. Loeb Classical Library 7. Cambridge, MA: Harvard University Press, 1999.
 
-Cassius Dio, *Book 44*
-
-[^1]: Byles, Richard. *Fire and Its Consequences in the City of Rome in
-    Antiquity*, 390 BC - AD 410 82
+Dio Cassius. *Roman History, Volume IV: Books 41-45*. Translated by Earnest Cary, Herbert B. Foster. Loeb Classical Library 66. Cambridge, MA: Harvard University Press, 1916.

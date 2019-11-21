@@ -1,5 +1,19 @@
-Like Moths to a Flame: Migrants in Ancient Rome
-===============================================
+---
+layout: post
+cover: '/assets/images/kean/KHeroBanner2.jpg'
+caption: 'Sacrifice Panel from the *Ara Pacis Augustae*. Photo by Steven Zucker CC BY-NC-SA 2.0.'
+captionLink: https://www.khanacademy.org/humanities/ancient-art-civilizations/roman/early-empire/a/ara-pacis.jpg
+title: 'Like Moths to a Flame: Migrants in Ancient Rome'
+date:
+tags:
+ - Rome
+ - Immigration
+ - Migrants
+ - Metropolis
+category:
+ - post
+author: Alexandrea Kean
+---
 
 Modern Rome is far from ranking among the world's most populated or
 diverse cities. Its ancient predecessor, however, was home to a masses
@@ -11,7 +25,7 @@ London (Cascio, 2018: 139). Expansion on this scale can only have
 occurred through inward migration.
 
 Migrant identities
-------------------
+==================
 
 From its earliest days, Rome was a city of migrants. Of its mythical
 forefathers, Aeneas was a Trojan refugee and Romulus populated his new
@@ -48,7 +62,7 @@ This mix of attitudes towards the multicultural identity of a city is
 familiar to us.
 
 Push and pull
--------------
+=============
 
 Like today, people in the ancient world had a wide range of reasons for
 migrating. For the early migrants from the Italian countryside, social
@@ -81,8 +95,8 @@ Soldiers made up perhaps 10-30% of the population in the first three
 centuries AD. Most were migrants and many from outside of Italy. The
 Praetorian Guard was the most significant military force in Rome, with
 soldiers serving 16-17 years and being billeted just outside of Rome at
-the Praetorian camp (**Figure 1) ([Noy, 2000:
-20](https://www.academia.edu/1338255/Immigrants_in_Late_Imperial_Rome))**.
+the Praetorian camp (**Figure 1**) ([Noy, 2000:
+20](https://www.academia.edu/1338255/Immigrants_in_Late_Imperial_Rome)).
 This walled camp stood on one of the highest points of the city and
 dominated both the view from the city, and its eastern and north-eastern
 roads ([Platner, 1929:
@@ -91,11 +105,11 @@ The camps significance is demonstrated by its appearance on coins of
 Claudius, who was proclaimed emperor by the Praetorian Guard after their
 assassination of his predecessor **(Figure 2).**
 
-**Many migrants came to Rome for its economic, political and even
+Many migrants came to Rome for its economic, political and even
 cultural opportunities. Seneca names many motivations, such as ambition,
 public office, ambassadorship, luxury, liberal studies, shows,
 friendship, industry, and the sale of their beauty or eloquence
-(**[**Sen.** *Helv.*
+([Sen. *Helv.*
 6.2-3](https://www.loebclassics.com/view/seneca_younger-de_consolatione_ad_helviam/1932/pb_LCL254.431.xml?rskey=viFDzE&result=2)).
 As Rome expanded its dominance, it benefitted from the spoils of war,
 taxation, and the exploitation of the empire's resources. It was a
@@ -146,11 +160,11 @@ resources. These new facilities, built along the Tiber in the second
 century BC, included huge, multiple-storey warehouses with thick walls
 (Erdkamp, 2013: 274; Mattingly and Aldrete, 2014: 386). Many food
 storage facilities were concentrated south of the Aventine hill,
-creating a district known as the Emporium (**Figure 4) (Mattingly and
-Aldrete, 2014: 386)**.
+creating a district known as the Emporium (**Figure 4**) (Mattingly and
+Aldrete, 2014: 386).
 
 Rome, the Metropolis
---------------------
+====================
 
 Particularly in the late Republic, the construction of infrastructure
 facilities are associated with periods of population growth. While these
@@ -164,18 +178,18 @@ to middle-class housing. This was met by the construction of multistorey
 apartment blocks **(Figure 5)**. Literary and archaeological evidence
 suggest that the majority of Rome's population was housed in such
 buildings, and that certain areas were almost exclusively dedicated to
-*insulae ([De Laine, 2018:
-319](https://www.wiley.com/en-au/A+Companion+to+the+City+of+Rome-p-9781405198196))*.
+*insulae* ([De Laine, 2018:
+319](https://www.wiley.com/en-au/A+Companion+to+the+City+of+Rome-p-9781405198196)).
 Rome was undoubtedly overcrowded, and its population density has been
 likened to modern Bombay or Calcutta (Storey, 1997: 976). The risks of
 such overcrowding are made explicit in texts regarding the dangers of
 fire or collapse, and by the regulation of building heights from
-Augustus' time onwards ([Gell. *NA*
+Augustus' time onwards ([Gell. NA
 15.1.1-3](https://www-loebclassics-com.simsrad.net.ocs.mq.edu.au/view/gellius-attic_nights/1927/pb_LCL212.59.xml);
-[Juv. *Sat.*
+[Juv. Sat.
 3.7-8](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires3.php#anchor_Toc281039202);
 [3.193-196](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires3.php#anchor_Toc281039207);
-[Sen. *Controv.*
+[Sen. Controv.
 5.5](https://www-loebclassics-com.simsrad.net.ocs.mq.edu.au/view/seneca_elder-controversiae/1974/pb_LCL463.487.xml?result=1&rskey=deD9P6);
 [De Laine, 2018:
 318](https://www.wiley.com/en-au/A+Companion+to+the+City+of+Rome-p-9781405198196)).
@@ -188,14 +202,14 @@ Construction methods also changed during the second century BC as Rome
 became more dependent on mass labour forces, consisting largely of
 slaves and other migrants. It was efficient to employ more standardised
 techniques and regular components, which could be used by unskilled
-workers. One example is the technique of *opus reticulatum,* which
-created a diamond pattern (**Figure 6).** Concrete, which was lighter
+workers. One example is the technique of *opus reticulatum*, which
+created a diamond pattern (**Figure 6**). Concrete, which was lighter
 and simpler to construct than stone, also became more widely used
 (Cornell, 2014: 146; Claridge, 2018: 114). Changes such as these quickly
 transformed the metropolis.
 
 Rome, the melting pot
----------------------
+=====================
 
 The presence of a wide range of nationalities in Rome also shaped the
 physical fabric of the city. In some quarters of Rome there is evidence
@@ -247,8 +261,8 @@ Palmyrenes dedicated an altar to their god Malakbel **(Fig. 8) (**[Noy,
 This demonstrates that distinct foreign groups lived in and made a
 tangible impact on Rome.
 
-Conclusions
------------
+Conclusion
+==========
 
 As Rome's empire spread throughout the ancient world, its epicentre
 began to reflect its massive size and scope. On one hand, the wealth and
@@ -260,9 +274,10 @@ people in Rome was a result of migration and had a huge impact on the
 fabric of the city.
 
 Bibliography
-------------
+============
 
-### Modern Sources
+Modern Sources
+--------------
 
 Brunn, Christer. "Water Supply, Drainage and Watermills." In *A
 Companion to the City of Rome,* edited by Claire Holleran and Amanda
@@ -328,6 +343,5 @@ London: Oxford University Press, 1929.
 Storey, Glenn R. "The Population of Ancient Rome." *Antiquity* 71, no.
 274 (Dec 1997): 996-978.
 
-###
-
-### Ancient Sources
+Ancient Sources
+---------------

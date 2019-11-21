@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: '/assets/images/kean/KHeroBanner2.jpg'
-caption: 'Sacrifice Panel from the *Ara Pacis Augustae*. Photo by Steven Zucker CC BY-NC-SA 2.0.'
+caption: 'Sacrifice Panel from the *Ara Pacis Augustae*. Photo by Steven Zucker, CC BY-NC-SA 2.0.'
 captionLink: https://www.khanacademy.org/humanities/ancient-art-civilizations/roman/early-empire/a/ara-pacis.jpg
 title: 'Like Moths to a Flame: Migrants in Ancient Rome'
 date:
@@ -97,13 +97,38 @@ Praetorian Guard was the most significant military force in Rome, with
 soldiers serving 16-17 years and being billeted just outside of Rome at
 the Praetorian camp (**Figure 1**) ([Noy, 2000:
 20](https://www.academia.edu/1338255/Immigrants_in_Late_Imperial_Rome)).
+
+{% include lightbox.html
+caption="Figure 1: Remains of the gate walls of the *Castra Praetoria*, Rome."
+imageCredit="Photo by Joris van Rooden in the public domain"
+imageCreditLink="https://en.wikipedia.org/wiki/Castra_Praetoria#/media/File:Porta_Preatoriana.jpg"
+image="kean/Figure1.jpg"
+width="418"
+height="335" %}
+
 This walled camp stood on one of the highest points of the city and
 dominated both the view from the city, and its eastern and north-eastern
-roads ([Platner, 1929:
-106](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0054)).
+roads ([Platner, 1929:106]
+(http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0054)).
 The camps significance is demonstrated by its appearance on coins of
 Claudius, who was proclaimed emperor by the Praetorian Guard after their
-assassination of his predecessor **(Figure 2).**
+assassination of his predecessor (**Figure 2**).
+
+{% include lightbox.html
+caption="Figure 2: Gold Aureus of Claudius (obv.) and the Praetorian camp (rev.), Rome, AD 44."
+imageCredit="Image by the American Numismatic Society in the public domain"
+imageCreditLink="http://numismatics.org/collection/1944.100.39353.jpg"
+image="kean/KeanObv.jpg"
+width="418"
+height="335" %}
+
+{% include lightbox.html
+caption="Figure 2: Gold Aureus of Claudius (obv.) and the Praetorian camp (rev.), Rome, AD 44."
+imageCredit="Image by the American Numismatic Society in the public domain"
+imageCreditLink="http://numismatics.org/collection/1944.100.39353.jpg"
+image="kean/KeanRev.jpg"
+width="418"
+height="335" %}
 
 Many migrants came to Rome for its economic, political and even
 cultural opportunities. Seneca names many motivations, such as ambition,
@@ -127,7 +152,7 @@ grand houses, dedicating monuments or buildings, or setting up
 impressive funerary inscriptions.
 
 Supply and demand
------------------
+=================
 
 The range of pursuits which brought the wealthy to Rome were supported
 by the acceleration of the city's building program from the first
@@ -148,9 +173,19 @@ aqueducts by which 'veritable rivers flow(ed) through the city' ([Strabo
 5.3.8](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/5C*.html)).
 Rome's first aqueduct was built in 312 BC, followed by several new and
 improved examples to increase the water supply, which was multiplied by
-fifteen in a 400-year period **(Figure 3)** ([Brunn, 2013:
+fifteen in a 400-year period (**Figure 3**) ([Brunn, 2013:
 297](https://www.cambridge.org/core/books/cambridge-companion-to-ancient-rome/water-supply-drainage-and-watermills/3DC976D43F8991719A59F6D51ED0462D);
-Dodge, 2014: 452). Rome's water capacity has been reasonably estimated
+Dodge, 2014: 452).
+
+{% include lightbox.html
+caption="Figure 3: Remains of the *Aqua Vetus* in Rome (272 BC)."
+imageCredit="Photo by Lalupa, CC BY-SA 3.0."
+imageCreditLink="https://commons.wikimedia.org/w/index.php?curid=1565884.jpg"
+image="kean/Figure3.jpg"
+width="418"
+height="335" %}
+
+Rome's water capacity has been reasonably estimated
 as 520,000-635,000 m^3^ per day---an impressive figure even for a modern
 city ([Brunn. 2013:
 306](https://www.cambridge.org/core/books/cambridge-companion-to-ancient-rome/water-supply-drainage-and-watermills/3DC976D43F8991719A59F6D51ED0462D)).
@@ -160,7 +195,7 @@ resources. These new facilities, built along the Tiber in the second
 century BC, included huge, multiple-storey warehouses with thick walls
 (Erdkamp, 2013: 274; Mattingly and Aldrete, 2014: 386). Many food
 storage facilities were concentrated south of the Aventine hill,
-creating a district known as the Emporium (**Figure 4**) (Mattingly and
+creating a district known as the Emporium (Mattingly and
 Aldrete, 2014: 386).
 
 Rome, the Metropolis
@@ -175,8 +210,17 @@ diverse population physically impacted the city in many ways.
 
 For instance, higher population density created a greater demand for low
 to middle-class housing. This was met by the construction of multistorey
-apartment blocks **(Figure 5)**. Literary and archaeological evidence
-suggest that the majority of Rome's population was housed in such
+apartment blocks (**Figure 4**).
+
+{% include lightbox.html
+caption="Figure 4: Insula of Diana, Ostia Antica."
+imageCredit="Photo by Jean-Pierre Dalbera, CC BY 2.0."
+imageCreditLink="https://www.khanacademy.org/humanities/ancient-art-civilizations/roman/beginners-guide-rome/a/roman-domestic-architecture-insula.jpg"
+image="kean/Figure5.jpg"
+width="418"
+height="335" %}
+
+Literary and archaeological evidence suggest that the majority of Rome's population was housed in such
 buildings, and that certain areas were almost exclusively dedicated to
 *insulae* ([De Laine, 2018:
 319](https://www.wiley.com/en-au/A+Companion+to+the+City+of+Rome-p-9781405198196)).
@@ -203,8 +247,17 @@ became more dependent on mass labour forces, consisting largely of
 slaves and other migrants. It was efficient to employ more standardised
 techniques and regular components, which could be used by unskilled
 workers. One example is the technique of *opus reticulatum*, which
-created a diamond pattern (**Figure 6**). Concrete, which was lighter
-and simpler to construct than stone, also became more widely used
+created a diamond pattern (**Figure 5**).
+
+{% include lightbox.html
+caption="Figure 5: *Opus Reticulatum* used on the exterior of Hadrian's Villa."
+imageCredit="Image by Pouwerkerk, CC BY 3.0."
+imageCreditLink="https://en.wikipedia.org/wiki/Opus_reticulatum#/media/File:Opus_Reticulatum_1.jpg"
+image="kean/Figure6.jpg"
+width="418"
+height="335" %}
+
+Concrete, which was lighter and simpler to construct than stone, also became more widely used
 (Cornell, 2014: 146; Claridge, 2018: 114). Changes such as these quickly
 transformed the metropolis.
 
@@ -228,8 +281,17 @@ separate cemeteries, with the exception of Jews ([Noy, 2000:
 Rome's multiculturalism is also expressed through its religious
 buildings. There were several temples and shrines to the Egyptian
 deities Isis and Serapis throughout Rome, most notably the monumental
-temple complex on the Campus Martius **(Figure 7)**. These do not
-necessarily attest to the presence of Egyptian migrants, as the cult was
+temple complex on the Campus Martius (**Figure 6**).
+
+{% include lightbox.html
+caption="Figure 6: *Iseum Campanese*: A reconstruction of the temple of Isis on the Campus Martius."
+imageCredit="Aquarelle de Jean-Claude Golvin. Musée départemental Arles Antique © Jean-Claude Golvin/ Éditions Errance."
+imageCreditLink="https://jeanclaudegolvin.com/en/project/italy/italie-roma-iseum-campense-jc-golvin-2/.jpg"
+image="kean/Fig7below70dpi.jpg"
+width="418"
+height="335" %}
+
+These do not necessarily attest to the presence of Egyptian migrants, as the cult was
 popular throughout the ancient world ([Noy, 2000:
 160](https://www.academia.edu/1338255/Immigrants_in_Late_Imperial_Rome)).
 They are, however, a good example of how Roman attitudes to foreign
@@ -255,11 +317,19 @@ their shrines destroyed ([Cass. Dio.
 There is inscriptional evidence of migrants dedicating monuments to
 foreign gods in Rome. A bilingual inscription in Latin and Aramaic, by a
 Palmyrene freedman and Roman citizen, states that he and fellow
-Palmyrenes dedicated an altar to their god Malakbel **(Fig. 8) (**[Noy,
+Palmyrenes dedicated an altar to their god Malakbel (**Fig. 7**) ([Noy,
 2000:
 160](https://www.academia.edu/1338255/Immigrants_in_Late_Imperial_Rome)).
 This demonstrates that distinct foreign groups lived in and made a
 tangible impact on Rome.
+
+{% include lightbox.html
+caption="Figure 7: Altar dedicated to the god Malakbel."
+imageCredit="Image by Inconnu, CC BY 3.0."
+imageCreditLink="https://en.wikipedia.org/wiki/Malakbel#/media/File:0_Autel_d%C3%A9di%C3%A9_au_dieu_Malakb%C3%AAl_et_aux_dieux_de_Palmyra_-_Musei_Capitolini_(2).jpg"
+image="kean/Figure8.jpg"
+width="418"
+height="335" %}
 
 Conclusion
 ==========
